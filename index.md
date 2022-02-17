@@ -4,9 +4,8 @@ classes: wide
 author_profile: true
 ---
 <span lang="zh-cn">
-            <font size="6" face="Times New Roman"><b>Baoshen (</b></font><font size="5" face="华文行楷">保申</font><b><font size="6" face="Times New Roman">)&nbsp;&nbsp;
-            </font><font size="6" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp; <br>
-            　</font></b></span>
+            <font size="6" face="Times New Roman"><b>Baoshen (</b></font><font size="6" face="华文行楷">保申</font><b><font size="6" face="Times New Roman">)&nbsp;&nbsp;
+            </font><font size="6" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp; <br></font></b></span>
 
 ***
 
