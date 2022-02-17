@@ -55,7 +55,7 @@ plugins:
 
 author:
   name   : "Baoshen Guo"
-  avatar : "/assets/images/seulogo.ico"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Ph.D. student, Southeast University "
   links:
     - label: "Email"
