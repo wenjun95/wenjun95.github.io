@@ -7,8 +7,7 @@ author_profile: true
 
 I am currently a Ph.D. student at Southeast University and my advisor is [Shuai Wang](https://scholar.google.com/citations?user=gfDfZqAAAAAJ&hl=zh-CN) and [Tian He](https://www-users.cs.umn.edu/~tianhe/). I am also working with Professor [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/) in research.
 
-My research interests are broadly in the areas of **Cyber-Physical Systems** (also known as **Internet of Things**), **Human-Centered Computing**, and Learning-based applications in **Smart Logistics**.<br>You can contact me at guobaoshen AT seu DOT edu DOT cn.
-
+My research interests are broadly in the areas of **Cyber-Physical Systems**, **Human-Centered Computing**, and **Learning-based applications** in **Smart Logistics**.<br>You can contact me at guobaoshen AT seu DOT edu DOT cn.
 My publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=og2Z6YMAAAAJ&hl=zh-CN).
 
 **Recent News**
@@ -20,7 +19,10 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 * Jul. 2021: [Data-set](https://tianchi.aliyun.com/dataset/dataDetail?dataId=106807) released of on-demand delivery order distrbution in Shenzhen.
 * Jul. 2021: 2st-author paper **RL-Dispatch** accepted by ACM IMWUT (UbiComp'21).
 * Jul. 2021: Co-authored paper accepted by WASA.
+* Jul. 2021: Co-authored paper accepted by WASA.
+* Mar. 2020: Start internship at JD Logistics AI and Data Science hosted by Prof. Tian He.
 * 2021: Co-authored paper accepted by MSN.
 * 2021: Co-authored paper accepted by ICPADS.
 * Sep. 2020: [Data-set](https://tianchi.aliyun.com/dataset/dataDetail?dataId=76359) released of Bluetooh beacons, couriers' reports and trajectories.
 * Aug. 2020: Co-authored paper accepted by IEEE UbiComp ISWC.
+* Jul. 2020: Start internship at Lab of Alibaba Local Services Company (Eleme).
