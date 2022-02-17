@@ -63,6 +63,8 @@ author:
       url: "mailto:guobaoshen@seu.edu.cn "
     - label: "Google Scholar"
       url: "https://scholar.google.com/citations?user=og2Z6YMAAAAJ&hl=zh-CN"
+     - label: "Github"
+      url: "https://github.com/seanguo61/seanguo61.github.io"
 footer:
   links:
     - label: "Email"
@@ -70,6 +72,8 @@ footer:
       url: "mailto:guobaoshen@seu.edu.cn "
     - label: "Google Scholar"
       url: "https://scholar.google.com/citations?user=og2Z6YMAAAAJ&hl=zh-CN"
+    - label: "Github"
+      url: "https://github.com/seanguo61/seanguo61.github.io"
 
 defaults:
   # _posts
