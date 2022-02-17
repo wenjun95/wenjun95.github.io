@@ -61,12 +61,14 @@ author:
     - label: "Google Scholar"
       url: "https://scholar.google.com/citations?user=og2Z6YMAAAAJ&hl=zh-CN"
     - label: "Github"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/seanguo61/seanguo61.github.io"
 footer:
   links:
     - label: "Google Scholar"
       url: "https://scholar.google.com/citations?user=og2Z6YMAAAAJ&hl=zh-CN"
     - label: "Github"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/seanguo61/seanguo61.github.io"
 
 defaults:
