@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Baoshen Guo's Homepage
-description: "Baoshen Guo's Homepage"
+title: Baoshen Guo
+description: "Baoshen Guo"
 name: Baoshen Guo
 logo: "/assets/images/seulogo.ico"
 minimal_mistakes_skin: contrast
