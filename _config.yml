@@ -55,7 +55,7 @@ plugins:
 
 author:
   name   : "Baoshen Guo"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/baoshen.jpg"
   bio    : "Ph.D. student, Southeast University "
   links:
     - label: "Google Scholar"
