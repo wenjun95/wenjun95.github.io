@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Baoshen, Ph.D."
+title: "Baoshen"
 classes: wide
 author_profile: true
 ---
