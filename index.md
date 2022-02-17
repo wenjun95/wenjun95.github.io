@@ -22,11 +22,10 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 * Aug. 2021: 1st-author paper accepted by IEEE RTSS'21.
 * Jul. 2021: [Data-set](https://tianchi.aliyun.com/dataset/dataDetail?dataId=106807) released of on-demand delivery order distrbution in Shenzhen.
 * Jul. 2021: 2st-author paper **RL-Dispatch** accepted by ACM IMWUT (UbiComp'21).
+* Jul. 2021: Co-authored paper accepted by ICPADS.
+* Jul. 2021: Co-authored paper accepted by MSN.
 * Jul. 2021: Co-authored paper accepted by WASA.
-* Jul. 2021: Co-authored paper accepted by WASA.
-* Mar. 2020: Start internship at JD Logistics AI and Data Science hosted by Prof. Tian He.
-* 2021: Co-authored paper accepted by MSN.
-* 2021: Co-authored paper accepted by ICPADS.
+* Mar. 2020: Start internship at JD Logistics AI and Data Science hosted by Prof. [Tian He](https://www-users.cs.umn.edu/~tianhe/).
 * Sep. 2020: [Data-set](https://tianchi.aliyun.com/dataset/dataDetail?dataId=76359) released of Bluetooh beacons, couriers' reports and trajectories.
 * Aug. 2020: Co-authored paper accepted by IEEE UbiComp ISWC.
 * Jul. 2020: Start internship at Lab of Alibaba Local Services Company (Eleme).
