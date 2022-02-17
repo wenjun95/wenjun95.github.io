@@ -8,44 +8,24 @@ author_profile: true
 
 ## Conference Publication
 
-<span style="color:Firebrick;font-weight:bold">[ICDCS'21]</span> *Mitigating Port Starvation for Shallow-buffered Switches in Datacenter Networks* <br>
-**Wenjun Lyu**, Jiawei Huang, Jingling Liu, Zhaoyi Li, Shaojun Zou, Weihe Li, Jianxin Wang, Desheng Zhang<br>
+<span style="color:Firebrick;font-weight:bold">[RTSS'21]</span> *Concurrent Order Dispatch for Instant Delivery with Time-Constrained Actor-Critic Reinforcement Learnings* <br>
+**Baoshen Guo**, Shuai Wang, Yi Ding, Guang Wang, Suining He, Desheng Zhang, Tian He<br>
 
-<span style="color:Forestgreen;font-weight:bold">[ICPP'19]</span> *TLB: Traffic-aware Load Balancing with Adaptive Granularity in Data Center Networks* <br>
-Jinbin Hu, Jiawei Huang, **Wenjun Lyu**, Yutao Zou, Jianxin Wang, Tian He<br>
+<span style="color:Firebrick;font-weight:bold">[ICDE'22]</span> *O2-SiteRec: Store Site Recommendation under the O2O Model via Multi-graph Attention Networks (To appear)* <br>
+Hua Yan, Shuai Wang, Yu Yang, **Baoshen Guo**, Tian He, Desheng Zhang<br>
 
-<span style="color:Firebrick;font-weight:bold">[ICNP'18]</span> *QDAPS: Queuing Delay Aware Packet Spraying for Load Balancing in Data Center* <br>
-Jiawei Huang, **Wenjun Lyu**, Weihe Li, Jianxin Wang, Tian He<br>
-
-<span style="color:Forestgreen;font-weight:bold">[INFOCOM'18]</span> *CAPS: Coding-based Adaptive Packet Spraying to Reduce Flow Completion Time in Data Center* <br>
-Jinbin Hu, Jiawei Huang, **Wenjun Lyu**, Yutao Zou, Jianxin Wang, Tian He<br>
+<span style="color:Forestgreen;font-weight:bold">[Ubicomp-Iswc'20]</span> *SParking: a win-win data-driven contract parking sharing system* <br>
+Xin Zhu, Shuai Wang, **Baoshen Guo**, Taiwei Ling, Ziyi Zhou, Lai Tu, Tian He<br>
 
 
 ## Journal Publication
 
-<span style="color:Firebrick;font-weight:bold">[ToN]</span> *Mitigating Packet Reordering for Random Packet Spraying in Data Center Networks* <br>
-Jiawei Huang, **Wenjun Lyu**, Weihe Li, Jianxin Wang, Tian He<br>
+<span style="color:Firebrick;font-weight:bold">[Ubicomp21]</span> *CSMC: Cellular Signal Map Construction via Mobile Crowdsensing* <br>
+Hai Wang, **Baoshen Guo**, Shuai Wang, Tian He, Desheng Zhang<br>
 
-<span style="color:Forestgreen;font-weight:bold">[ToN]</span> *CAPS: Coding-based Adaptive Packet Spraying to Reduce Flow Completion Time in Data Center* <br>
-Jinbin Hu, Jiawei Huang, **Wenjun Lyu**, Yutao Zou, Jianxin Wang, Tian He<br>
-
-<span style="color:Firebrick;font-weight:bold">[ToCC]</span> *APS: Adaptive Packet Spraying to Isolate Mix-flows in Data Center Network* <br>
-Jingling Liu, Jiawei Huang, **Wenjun Lyu**, Jianxin Wang<br>
-
-<span style="color:Forestgreen;font-weight:bold">[ToN]</span> *Adjusting Switching Granularity of Load Balancing for Heterogeneous Datacenter Traffic* <br>
-Jinbin Hu, Jiawei Huang, **Wenjun Lyu**, Weihe Li, Zhaoyi Li, Wenchao Jiang, Jianxin Wang, Tian He<br>
-
-<span style="color:Firebrick;font-weight:bold">[Laboratory Science]</span> *Design of Network Security Experiment Based on Floodlight Controller* <br>
-Jiawei Huang, **Wenjun Lv**, Weiping Wang<br>
+<span style="color:Forestgreen;font-weight:bold">[Ubicomp21]</span> *A City-Wide Crowdsourcing Delivery System with Reinforcement Learning* <br>
+Yi Ding, **Baoshen Guo**, Lin Zheng, Mingming Lu, Desheng Zhang, Shuai Wang, Sang Hyuk Son, Tian He<br>
 
 
 ## National Patent
 
-*A Packet Spraying Method Based on Packet Queuing Delay in DCN* <br>
-Jiawei Huang, **Wenjun Lv**, Weihe Li, Jinbin Hu, Jianxin Wang <br>
-
-*Coding-based Packet Spraying Method in DCN* <br>
-Jiawei Huang, Jinbin Hu, **Wenjun Lv**, Jingling Liu, Jianxin Wang <br>
-
-*A Heterogeneous Flow Partition Method Based on Packet Spraying in DCN* <br>
-Jiawei Huang, Jingling Liu, Jinbin Hu,**Wenjun Lv**, Jianxin Wang <br>
