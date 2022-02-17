@@ -26,7 +26,7 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 * Jul. 2021: Co-authored paper accepted by ICPADS.
 * Jul. 2021: Co-authored paper accepted by MSN.
 * Jul. 2021: Co-authored paper accepted by WASA.
-* Mar. 2020: Start internship at JD Logistics AI and Data Science hosted by Prof. [Tian He](https://www-users.cs.umn.edu/~tianhe/).
+* Mar. 2021: Start internship at JD Logistics AI and Data Science hosted by Prof. [Tian He](https://www-users.cs.umn.edu/~tianhe/).
 * Sep. 2020: [Data-set](https://tianchi.aliyun.com/dataset/dataDetail?dataId=76359) released of Bluetooh beacons, couriers' reports and trajectories.
 * Aug. 2020: Co-authored paper accepted by IEEE UbiComp ISWC.
 * Jul. 2020: Start internship at Lab of Alibaba Local Services Company (Eleme).
