@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Baoshen <font size="5" face="华文行楷">保申</font>"
+title: "Baoshen"
 classes: wide
 author_profile: true
 ---
