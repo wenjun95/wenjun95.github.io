@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Wenjun Lyu's Homepage
-description: "Wenjun Lyu's Homepage"
+title: Baoshen Guo's Homepage
+description: "Baoshen Guo's Homepage"
 name: Wenjun Lyu
 logo: "/assets/images/ru.svg"
 minimal_mistakes_skin: default
@@ -54,24 +54,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Wenjun Lyu"
+  name   : "Baoshen Guo"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Ph.D. in Computer Science and Technology, Rutgers University "
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:wenjun.lyu@rutgers.edu "
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/wenjun-lyu-992a50175/"
+      url: "mailto:guobaoshen@seu.edu.cn "
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=og2Z6YMAAAAJ&hl=zh-CN"
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:wenjun.lyu@rutgers.edu "
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/wenjun-lyu-992a50175/"
+      url: "mailto:guobaoshen@seu.edu.cn "
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=og2Z6YMAAAAJ&hl=zh-CN"
 
 defaults:
   # _posts
