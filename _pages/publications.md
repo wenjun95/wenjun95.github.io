@@ -6,7 +6,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Conference Publication
+## Selected Conference Publication
 
 <span style="color:Firebrick;font-weight:bold">[RTSS'21]</span> *Concurrent Order Dispatch for Instant Delivery with Time-Constrained Actor-Critic Reinforcement Learnings* <br>
 **Baoshen Guo**, Shuai Wang, Yi Ding, Guang Wang, Suining He, Desheng Zhang, Tian He<br>
