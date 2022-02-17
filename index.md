@@ -4,8 +4,9 @@ classes: wide
 author_profile: true
 ---
 
-<font size="8">Baoshen （<font size="8" face="华文行楷">保申</font></font>）
+<font size="5">Baoshen （<font size="5" face="华文行楷">保申</font>）</font>
 
+***
 
 I am currently a Ph.D. student at Southeast University, under supervision of Prof. [Shuai Wang](https://scholar.google.com/citations?user=gfDfZqAAAAAJ&hl=zh-CN) and [Tian He](https://www-users.cs.umn.edu/~tianhe/). I am also working with Professor [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/) in research.
 My research interests are broadly in the areas of **Cyber-Physical Systems**, **Human-Centered Computing**, and **Learning-based applications** in **Smart Logistics**.<br>You can contact me at guobaoshen AT seu DOT edu DOT cn.
