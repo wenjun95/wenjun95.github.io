@@ -7,7 +7,10 @@ author_profile: true
 <font size="6" face="SimHei">Baoshen(<font size="6" face="华文行楷">保申</font>)</font>
 
 ***
-
+<span lang="zh-cn">
+            <font size="5" face="Times New Roman"><b>Mo Li (</b></font><font size="5" face="华文行楷">李默</font><b><font size="5" face="Times New Roman">)&nbsp;&nbsp;
+            </font><font size="4" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp; <br>
+            　</font></b></span>
 I am currently a Ph.D. student at Southeast University, under supervision of Prof. [Shuai Wang](https://scholar.google.com/citations?user=gfDfZqAAAAAJ&hl=zh-CN) and [Tian He](https://www-users.cs.umn.edu/~tianhe/). I am also working with Professor [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/) in research.
 My research interests are broadly in the areas of **Cyber-Physical Systems**, **Human-Centered Computing**, and **Learning-based applications** in **Smart Logistics**.<br>You can contact me at guobaoshen AT seu DOT edu DOT cn.
 My publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=og2Z6YMAAAAJ&hl=zh-CN).
