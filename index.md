@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 ---
 
-<font size="5" face="SimHei">Baoshen (<font size="5" face="华文行楷">保申</font>)</font>
+<font size="6" face="SimHei">Baoshen</font> (<font size="6" face="华文行楷">保申</font>)
 
 ***
 
