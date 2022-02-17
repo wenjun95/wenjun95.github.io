@@ -13,12 +13,8 @@ author_profile: true
 
 ## Academic Project	
 
-**Post-graduate Exploration Project**
-
-
-**Undergraduate Exploration Project**
 
 
 ## Teaching Experience	
-
+Teaching Assistant, Rennes Graduate school of Southeast University: Database Principles 2019 Spring
 
