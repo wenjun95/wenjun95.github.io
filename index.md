@@ -31,4 +31,4 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 * Aug. 2020: Co-authored paper accepted by IEEE UbiComp ISWC.
 * Jul. 2020: Start internship at Lab of Alibaba Local Services Company (Eleme).
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=100&t=tt&d=EQYPlw5lDg15RcgG0z_hUteyGtKKwFr6VRGHCriccuo'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=EQYPlw5lDg15RcgG0z_hUteyGtKKwFr6VRGHCriccuo'></script>
