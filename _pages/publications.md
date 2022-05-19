@@ -15,7 +15,7 @@ author_profile: true
 <span style="color:gray;font-weight:bold">[ICDE'22]</span> *O2-SiteRec: Store Site Recommendation under the O2O Model via Multi-graph Attention Networks* <br>
 Hua Yan, Shuai Wang, Yu Yang, **Baoshen Guo**, Tian He, Desheng Zhang<br>
 
-<span style="color:royalblue;font-weight:bold">[RTSS'21]</span> *Concurrent Order Dispatch for Instant Delivery with Time-Constrained Actor-Critic Reinforcement Learnings* <br>
+<span style="color:royalblue;font-weight:bold">[RTSS'21]</span> *Concurrent Order Dispatch for Instant Delivery with Time-Constrained Actor-Critic Reinforcement Learning* <br>
 **Baoshen Guo**, Shuai Wang, Yi Ding, Guang Wang, Suining He, Desheng Zhang, Tian He<br><span style="background-color:gray;color:White"> Outstanding Paper Award </span>
 
 
