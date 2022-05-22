@@ -9,6 +9,9 @@ author_profile: true
 ## Selected Conference Publication
 
 
+<span style="color:gray;font-weight:bold">[KDD'22]</span> *RT-VeD: Real-Time VoI Detection on Edge Nodes with an Adaptive Model Selection Framework* <br>
+Shuai Wang, Junke Lu, **Baoshen Guo**, Zheng Dong<br>
+
 <span style="color:gray;font-weight:bold">[Ubicomp'22]</span> *WePos: Weak-supervised Indoor Positioning with Unlabeled WiFi for On-demand Delivery* <br>
 **Baoshen Guo**, Weijian Zuo, Shuai Wang, Wenjun Lyu, Zhiqing Hong, Yi Ding, Tian He, Desheng Zhang<br>
 

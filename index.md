@@ -21,7 +21,7 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 * Apr. 2022: 1st-author paper **WePos** accepted by ACM IMWUT (UbiComp'22).
 * Nov. 2021: 1st-author paper won outstanding paper award at IEEE RTSS'21.
 * Oct. 2021: 2st-author paper **CSMC** accepted by ACM IMWUT (UbiComp'21).
-* Oct. 2021: Another paper **O^2-SiteRec** about  on-demand gig delivery is accepted by ICDE'22.
+* Oct. 2021: Another paper **O2-SiteRec** about  on-demand gig delivery is accepted by ICDE'22.
 * Aug. 2021: 1st-author paper **TCAC** accepted by IEEE RTSS'21.
 * Jul. 2021: [Data-set](https://tianchi.aliyun.com/dataset/dataDetail?dataId=106807) released of on-demand delivery order distrbution in Shenzhen.
 * Jul. 2021: 2st-author paper **RL-Dispatch** accepted by ACM IMWUT (UbiComp'21).
