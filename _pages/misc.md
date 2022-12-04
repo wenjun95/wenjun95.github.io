@@ -8,11 +8,10 @@ author_profile: true
 
 ## Awards
 
-* Outstanding paper award of RTSS , 2021
-* Best paper candidate of RTSS , 2021
-
-## Academic Project	
-
+* Outstanding paper award of RTSS, 2021
+* Southeast University Education Foundation Scholarship, 2022
+* Best paper candidate of RTSS, 2021
+* Outstanding Thesis Award, Southeast University, 2019
 
 
 ## Teaching Experience	
