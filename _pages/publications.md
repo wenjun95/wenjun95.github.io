@@ -8,6 +8,12 @@ author_profile: true
 
 ## Selected Conference Publication
 
+<span style="color:gray;font-weight:bold">[SIGSPATIAL'22]</span> *CoMiner: Nationwide Behavior-driven Unsupervised Spatial Coordinate Mining from Uncertain Delivery Events* <br>
+Zhiqing Hong, Guang Wang, Wenjun Lyu, **Baoshen Guo**, Yi Ding, Haotian Wang, Shuai Wang, Yunhuai Liu, Desheng Zhang<br>
+
+<span style="color:gray;font-weight:bold">[CIKM'22]</span> *Towards Fair Workload Assessment via Homogeneous Order Grouping in Last-mile Delivery* <br>
+Wenjun Lyu, Kexin Zhang, **Baoshen Guo**, Zhiqing Hong, Guang Yang, Guang Wang, Yu Yang, Yunhuai Liu and Desheng Zhang<br>
+
 <span style="color:gray;font-weight:bold">[KDD'22]</span> *RT-VeD: Real-Time VoI Detection on Edge Nodes with an Adaptive Model Selection Framework* <br>
 Shuai Wang, Junke Lu, **Baoshen Guo**, Zheng Dong<br>
 
