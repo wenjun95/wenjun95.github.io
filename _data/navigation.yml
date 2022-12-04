@@ -1,8 +1,8 @@
 main:
   - title: "Publications"
     url: /publications/
-  - title: "Research"
-    url: /research/
+  - title: "Services"
+    url: /services/
   - title: "Misc"
     url: /misc/
   - title: "Personal"
