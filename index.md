@@ -8,27 +8,30 @@ author_profile: true
             </font><font size="6" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp; <br></font></b></span>
 
 ***
-**Biography**
+
+[//]: # (**Biography**)
+### <span style="color:royalBlue;font-weight:bold">Biography</span>
 
 I am currently a Ph.D. student at Southeast University, under supervision of Prof. [Shuai Wang](https://scholar.google.com/citations?user=gfDfZqAAAAAJ&hl=zh-CN). I am also working with Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/) and Prof. [Tian He](https://www-users.cs.umn.edu/~tianhe/) in research. 
 
 My research interests are broadly in the areas of **Cyber-Physical Systems**, **Human-Centered Computing**, and **Learning-based Decision-Making Applications** in **Smart Logistics**.<br>You can contact me at guobaoshen AT seu DOT edu DOT cn.
 My publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=og2Z6YMAAAAJ&hl=zh-CN). 
 
-**Working Experiences** 
+[//]: # (**Working Experiences** )
+### <span style="color:green;font-weight:bold">Working Experiences</span>
 
-Research engineer, Data and AI Lab, JD Logistics    &nbsp;&nbsp;&nbsp;       Mar. 2021 - Present
-* Design the **delivery zone repartition** system to optimize package pickup and delivery process in JD logistics. 
-* Lead a group to Design **learning-based human behavior modeling** algorithms to extract human operation patterns in **Community Group Purchase services**. 
+* Research engineer, Data and AI Lab, JD Logistics    &nbsp;&nbsp;&nbsp;       Mar. 2021 - Present
+  * Design the **delivery zone repartition** system to optimize package pickup and delivery process in JD logistics. 
+  * Lead a group to Design **learning-based human behavior modeling** algorithms to extract human operation patterns in **Community Group Purchase services**. 
 
-Research intern,  Lab of Alibaba Local Services    &nbsp;&nbsp;&nbsp;       Jul. 2020 - Jan. 2021
-* Designed algorithms to conduct merchant-level positioning for couriers leveraging massive unlabeled
-Wi-Fi data.
-* Worked in a team to design, deploy, and evaluate a nationwide WiFi-based couriers' Arrival-Waiting-Departure (AWD) status detection system,
-involving 3 million smartphones in 367 cities for 20 months.
+* Research intern,  Lab of Alibaba Local Services    &nbsp;&nbsp;&nbsp;       Jul. 2020 - Jan. 2021
+  * Designed algorithms to conduct merchant-level positioning for couriers leveraging massive unlabeled
+  Wi-Fi data.
+  * Worked in a team to design, deploy, and evaluate a nationwide WiFi-based couriers' Arrival-Waiting-Departure (AWD) status detection system,
+  involving 3 million smartphones in 367 cities for 20 months.
 
 
-**<span style="color:DarkRed;font-weight:bold">Recent News</span>**
+### <span style="color:DarkRed;font-weight:bold">Recent News</span>
 
 [//]: # (**Recent News**)
 
