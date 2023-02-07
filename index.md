@@ -15,6 +15,19 @@ I am currently a Ph.D. student at Southeast University, under supervision of Pro
 My research interests are broadly in the areas of **Cyber-Physical Systems**, **Human-Centered Computing**, and **Learning-based Decision-Making Applications** in **Smart Logistics**.<br>You can contact me at guobaoshen AT seu DOT edu DOT cn.
 My publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=og2Z6YMAAAAJ&hl=zh-CN). 
 
+**Working Experiences** 
+
+Research engineer, Data and AI Lab, JD Logistics    &nbsp;&nbsp;&nbsp;       Mar. 2021 - Present
+* Designed data-driven **delivery zone repartition** system to optimize package pickup and delivery process in JD logistics. 
+* Leading a group to Design **learning-based human behavior modeling** algorithms to extract human operation patterns in **Community Group Purchase services**. 
+
+Research intern,  Lab of Alibaba Local Services    &nbsp;&nbsp;&nbsp;       Jul. 2020 - Jan. 2021
+* Designed learning algorithms to conduct merchant-level positioning for couriers leveraging massive unlabeled
+Wi-Fi data.
+* Worked in a team to design, deploy, and evaluate a nationwide WiFi-based couriers' Arrival-Waiting-Departure (AWD) status detection system,
+involving 3 million smartphones in 367 cities for 20 months.
+
+
 **Recent News**
 
 * Aug. 2022: Co-authored paper accepted by ACM SIGSPATIAL 2022.
