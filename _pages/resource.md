@@ -6,7 +6,7 @@ permalink: /resource/
 author_profile: true
 ---
 
-## Useful Links 
+### Useful Links 
 
 * [Writing Tips for Academics](https://greatresearch.org/2013/10/11/storytelling-101-writing-tips-for-academics/)
 * [ccf-deadline](https://ccfddl.github.io/)
@@ -14,7 +14,7 @@ author_profile: true
 * [Latex symbols 1](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
 * [Latex symbols 2](https://artofproblemsolving.com/wiki/index.php/LaTeX:Symbols) 
 
-## Data-sets
+### Data-sets
 
-* [on-demand delivery order distrbution in Shenzhen](https://tianchi.aliyun.com/dataset/dataDetail?dataId=106807)
-* [beacons, couriers' reports and trajectories](https://tianchi.aliyun.com/dataset/dataDetail?dataId=76359)
+* [On-demand delivery order distrbution in Shenzhen](https://tianchi.aliyun.com/dataset/dataDetail?dataId=106807)
+* [Beacons, couriers' reports and trajectories](https://tianchi.aliyun.com/dataset/dataDetail?dataId=76359)
