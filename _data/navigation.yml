@@ -1,9 +1,11 @@
 main:
   - title: "Publications"
     url: /publications/
-  - title: "Services"
+  - title: "Award and Services"
     url: /Services/
-  - title: "Misc"
-    url: /misc/
-  - title: "Personal"
-    url: /personal/
+#  - title: "Misc"
+#    url: /misc/
+#  - title: "Personal"
+#    url: /personal/
+  - title: "Resource"
+    url: /resource/
