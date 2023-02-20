@@ -22,7 +22,7 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 
 **Research engineer, Data and AI Lab, JD Logistics    &nbsp;&nbsp;&nbsp;       Mar. 2021 - Present**
   * Design the **delivery zone repartition** system to optimize package pickup and delivery process in JD logistics. 
-  * Lead a group to Design **learning-based human behavior modeling** algorithms to extract human operation patterns in **Community Group Purchase services**. 
+  * Lead a group to design and deploy **learning-based human behavior modeling** algorithms for **Community Group Purchase services** to increase adoption rate by modeling human interaction patterns. 
 
 **Research intern,  Lab of Alibaba Local Services    &nbsp;&nbsp;&nbsp;       Jul. 2020 - Jan. 2021**
   * Designed algorithms to conduct merchant-level positioning for couriers leveraging massive unlabeled
