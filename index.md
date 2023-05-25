@@ -4,10 +4,11 @@ classes: wide
 author_profile: true
 ---
 <span lang="zh-cn">
-            <font size="6" face="Times New Roman"><b>Baoshen (</b></font><font size="6" face="华文行楷">保申</font><b><font size="6" face="Times New Roman">)&nbsp;&nbsp;
-            </font><font size="6" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp; <br></font></b></span>
-
-***
+            <font size="5" face="Times New Roman"><b>Baoshen </b>
+            </font><font size="4" face="华文行楷">保申</font><b>
+<font size="4" face="Times New Roman">&nbsp;&nbsp;
+            </font><font size="4" face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;
+<br></font></b></span>
 
 [//]: # (**Biography**)
 ### <span style="color:royalBlue;font-weight:bold">Biography</span>
@@ -35,7 +36,6 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 
 [//]: # (**Recent News**)
 
-* | May. 2023      | Two papers accepted by ACM SIGKDD'23. |
 * May. 2023: Two papers accepted by ACM SIGKDD'23.
 * Mar. 2023: Co-authored paper accepted by IEEE Transactions on Big Data.
 * Aug. 2022: Co-authored paper accepted by ACM SIGSPATIAL 2022.
