@@ -8,7 +8,7 @@ author_profile: true
 * SIGKDD 2023
 * Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) 2022
 * IEEE/ACM Transactions on Networking 2022
-* International Conference on Parallel and Distributed Systems (ICPADS) 2021 
+* ICPADS 2021 
 * Computer Communications
 
 ### Awards
