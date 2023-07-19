@@ -16,7 +16,7 @@
 title: Baoshen Guo
 description: "Baoshen Guo"
 name: Baoshen Guo
-logo: "/assets/images/seulogo.ico"
+logo: "/assets/images/duoyuyan.ico"
 minimal_mistakes_skin: contrast
 search: true
 
@@ -56,7 +56,7 @@ plugins:
 author:
   name   : "Baoshen Guo"
   avatar : "/assets/images/baoshen.jpg"
-  bio    : "Ph.D. Candidate, Southeast University "
+  bio    : "Ph.D. Candidate, Southeast University", "Graduate Research Trainee, Mcgill University"
   links:
     - label: "Google Scholar"
       url: "https://scholar.google.com/citations?user=og2Z6YMAAAAJ&hl=zh-CN"
