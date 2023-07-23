@@ -8,6 +8,8 @@ author_profile: true
 
 **Selected Conference Publications**
 
+---
+
 ### 2023 
 
 
@@ -18,7 +20,7 @@ author_profile: true
 **Wenjun Lyu**, Haotian Wang, Zhiqing Hong, Guang Wang, Yu Yang, Yunhuai Liu, Desheng Zhang<br>
 
 
-
+---
 
 ### 2022
 
@@ -79,6 +81,7 @@ Jinbin Hu, Jiawei Huang, **Wenjun Lyu**, Yutao Zhou, Jianxin Wang, Tian He<br>
 
 **Selected Journal Publications**
 
+---
 
 <span style="color:royalblue;font-weight:bold">[TOSN'23]</span> *OPTI: Order Preparation Time Inference for On-demand Delivery* <br>Zhigang Dai **Wenjun Lyu**, Yi Ding, Yiwei Song, Yunhuai Liu<br>
 
