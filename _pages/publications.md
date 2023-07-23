@@ -1,10 +1,13 @@
 ---
-title: "Selected Conference Publication"
+title: "Selected Publications"
 layout: single
 classes: wide
 permalink: /publications/
 author_profile: true
 ---
+
+**Selected Conference Publications**
+
 ### 2023 
 
 
@@ -74,13 +77,7 @@ Jinbin Hu, Jiawei Huang, **Wenjun Lyu**, Yutao Zhou, Jianxin Wang, Tian He<br>
 
 
 
----
-title: "Selected Journal Publication"
-layout: single
-classes: wide
-permalink: /publications/
-author_profile: true
----
+**Selected Journal Publications**
 
 
 <span style="color:royalblue;font-weight:bold">[TOSN'23]</span> *OPTI: Order Preparation Time Inference for On-demand Delivery* <br>Zhigang Dai **Wenjun Lyu**, Yi Ding, Yiwei Song, Yunhuai Liu<br>
