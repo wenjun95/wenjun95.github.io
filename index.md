@@ -6,9 +6,9 @@ author_profile: true
 
 [//]: # (<span lang="zh-cn">)
 
-[//]: # (            <font size="5" face="Times New Roman"><b>Baoshen </b>)
+[//]: # (            <font size="5" face="Times New Roman"><b>Wen jun </b>)
 
-[//]: # (            </font><font size="4" face="华文行楷">保申</font><b>)
+[//]: # (            </font><font size="4" face="华文行楷">文俊</font><b>)
 
 [//]: # (<font size="4" face="Times New Roman">&nbsp;&nbsp;)
 
@@ -19,49 +19,35 @@ author_profile: true
 [//]: # (**Biography**)
 ### <span style="color:royalBlue;font-weight:bold">Biography</span>
 
-I am a final-year Ph.D. student at Rutgers University, under supervision of Prof. [Shuai Wang](https://scholar.google.com/citations?user=gfDfZqAAAAAJ&hl=zh-CN). I am also working with Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/) and Prof. [Tian He](https://www-users.cs.umn.edu/~tianhe/) in research. 
+I am a final-year Ph.D. student at Rutgers University, under the supervision of Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/). I am also working with Prof. [Yunhuai Liu](http://www.yunhuai.net/Yunhuai.htm) in research. I obtained my master degree from Central South University, under the supervision of Prof. [Jiawei Huang](https://faculty.csu.edu.cn/jiaweihuang/zh_CN/index/27174/list/index.htm).
 
-Currently, I am a Graduate Research Trainee of  Cyber Physical Systems Lab, McGill University, under supervision of Prof. [Xue Liu](https://www.cs.mcgill.ca/~xueliu/site/intro.html).
 
-My research interests are broadly in the areas of **Cyber-Physical Systems**, **Human-Centered Computing**, and **Learning-based Decision-Making Applications** in **Smart Logistics**.<br>You can contact me at guobaoshen AT seu DOT edu DOT cn.
-My publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=og2Z6YMAAAAJ&hl=zh-CN). 
+My research interests are broadly in the areas of **Cyber-Physical Systems**, and **Data-Driven Applications** in **Smart Logistics**.<br>You can contact me at wenjun.lyu AT rutgers DOT edu.
+My publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=_LMyrNQAAAAJ&hl=en). 
 
-[//]: # (**Working Experiences** )
-### <span style="color:green;font-weight:bold">Working Experiences</span>
+[//]: # (**Research Experiences** )
+### <span style="color:green;font-weight:bold">Research Experiences</span>
 
-> **Research engineer, Data and AI Lab, JD Logistics    &nbsp;&nbsp;&nbsp;       Mar. 2021 - Present**
- * Design the **delivery zone repartition** system to optimize package pickup and delivery process in JD logistics. 
- * Lead a group to design and deploy **learning-based human behavior modeling** algorithms for **Community Group Purchase services** to increase adoption rate by modeling human interaction patterns. 
+> **Research Intern in JD Logistics    &nbsp;&nbsp;&nbsp;       Mar. 2021 - Aug. 2021, Jun. 2022-Now**
+ * Lead a team to design a homogeneous order grouping system to improve couriers’ workload measurement in last-mile delivery based on couriers’ reporting data, which has been deployed on a nationwide scale.
+ * Propose a relay-based last-mile delivery scheme to improve delivery efficiency and led a team to design a relay route generation algorithm based on fined-grained courier mobility features, which has been deployed in more than 100 delivery stations.
+ * Lead a team to design a truck scheduling system for transporting orders from the transfer center to multiple delivery stations with the goal of minimizing the average order delivery time.
+ * Lead a team to design a workload-aware task assignment system in last-mile delivery to assign delivery tasks to couriers with the goal of achieving fairness among couriers from the energy consumption perspective.
+ * Lead a team to design a heterogeneous task assignment system in last-mile delivery to assign delivery tasks, customer expansion tasks, and real-time pick-up tasks to couriers to maximize the platform’s revenue.
 
-> **Research intern,  Lab of Alibaba Local Services    &nbsp;&nbsp;&nbsp;       Jul. 2020 - Jan. 2021**
-  * Designed algorithms to conduct merchant-level positioning for couriers leveraging massive unlabeled
-  Wi-Fi data.
-  * Worked in a team to design, deploy, and evaluate a nationwide WiFi-based couriers' Arrival-Waiting-Departure (AWD) status detection system,
-  involving 3 million smartphones in 367 cities for 20 months.
 
 
 ### <span style="color:DarkRed;font-weight:bold">Recent News</span>
 
 [//]: # (**Recent News**)
 
-* May. 2023: Two papers accepted by ACM SIGKDD'23.
-* Mar. 2023: Co-authored paper accepted by IEEE Transactions on Big Data.
-* Aug. 2022: Co-authored paper accepted by ACM SIGSPATIAL 2022.
-* Aug. 2022: Co-authored paper accepted by ACM CIKM 2022.
-* May. 2022: 1 paper accepted by ACM SIGKDD'22.
-* Apr. 2022: 1st-author paper **WePos** accepted by ACM IMWUT (UbiComp'22).
-* Nov. 2021: 1st-author paper won outstanding paper award at IEEE RTSS'21.
-* Oct. 2021: 2st-author paper **CSMC** accepted by ACM IMWUT (UbiComp'21).
-* Oct. 2021: Another paper **O2-SiteRec** about  on-demand gig delivery is accepted by ICDE'22.
-* Aug. 2021: 1st-author paper **TCAC** accepted by IEEE RTSS'21.
-* Jul. 2021: [Data-set](https://tianchi.aliyun.com/dataset/dataDetail?dataId=106807) released of on-demand delivery order distrbution in Shenzhen.
-* Jul. 2021: 2st-author paper **RL-Dispatch** accepted by ACM IMWUT (UbiComp'21).
-* Jul. 2021: Co-authored paper accepted by ICPADS.
-* Jul. 2021: Co-authored paper accepted by MSN.
-* Jul. 2021: Co-authored paper accepted by WASA.
-* Mar. 2021: Start internship at JD Logistics AI and Data Science hosted by Prof. [Tian He](https://www-users.cs.umn.edu/~tianhe/).
-* Sep. 2020: [Data-set](https://tianchi.aliyun.com/dataset/dataDetail?dataId=76359) released of Bluetooh beacons, couriers' reports and trajectories.
-* Aug. 2020: Co-authored paper accepted by IEEE UbiComp ISWC.
-* Jul. 2020: Start internship at Lab of Alibaba Local Services Company (Eleme).
+* Apr. 2023: A 1st-authored paper PSOT accepted by IJCAI 2023.
+* Apr. 2023: Co-authored paper accepted by ACM Transactions on Sensor Networks (TOSN).
+* Feb. 2023: A 1t-authored paper REDE accepted by ICDE 2023
+* Aug. 2022: Two Co-authored papers accepted by ACM SIGSPATIAL 2022.
+* Aug. 2022: A 1st-authored paper FHOG accepted by CIKM 2022
+* Oct. 2021: A 1st-authored paper accepted by IMWUT/Ubicomp.
+
+
 
  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=253&t=m&d=EQYPlw5lDg15RcgG0z_hUteyGtKKwFr6VRGHCriccuo'></script>
