@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Baoshen Guo
-description: "Baoshen Guo"
-name: Baoshen Guo
+title: Wenjun Lyu
+description: "Wenjun Lyu"
+name: Wenjun Lyu
 logo: "/assets/images/32905629.ico"
 minimal_mistakes_skin: contrast
 search: true
@@ -54,22 +54,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Baoshen Guo"
-  avatar : "/assets/images/baoshen.jpg"
-  bio    : "Ph.D. Candidate, Southeast University, Graduate Research Trainee, Mcgill University"
+  name   : "Wenjun Lyu"
+  avatar : "/assets/images/wj.jpeg"
+  bio    : "Ph.D. Candidate, Rutgers University"
   links:
     - label: "Google Scholar"
-      url: "https://scholar.google.com/citations?user=og2Z6YMAAAAJ&hl=zh-CN"
+      url: "https://scholar.google.com/citations?user=_LMyrNQAAAAJ&hl=en"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.cn/injobs/in/baoshen-guo-687a99184"
+      url: "https://www.linkedin.com/in/wenjun-lyu-992a50175/"
 footer:
   links:
     - label: "Google Scholar"
-      url: "https://scholar.google.com/citations?user=og2Z6YMAAAAJ&hl=zh-CN"
+      url: "https://scholar.google.com/citations?user=_LMyrNQAAAAJ&hl=en"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.cn/injobs/in/baoshen-guo-687a99184"
+      url: "https://www.linkedin.com/in/wenjun-lyu-992a50175/"
 
 defaults:
   # _posts
