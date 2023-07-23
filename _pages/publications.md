@@ -20,8 +20,6 @@ author_profile: true
 **Wenjun Lyu**, Haotian Wang, Zhiqing Hong, Guang Wang, Yu Yang, Yunhuai Liu, Desheng Zhang<br>
 
 
----
-
 ### 2022
 
 <span style="color:royalblue;font-weight:bold">[CIKM'22]</span> *Towards Fair Workload Assessment via Homogeneous Order Grouping in Last-mile Delivery* <br>
@@ -42,8 +40,6 @@ Zhiqing Hong, Guang Wang, **Wenjun Lyu**, Baoshen Guo, Yi Ding, Haotian Wang, Sh
 Zhiqing Hong, Heng Yang, Haotian Wang, **Wenjun Lyu**, Yu Yang, Guang Wang, Yunhuai Liu, Yang Wang, Desheng Zhang<br>
 
 
----
-
 ### 2021 
 
 
@@ -57,15 +53,11 @@ Cases* <br>
 
 
 
----
-
 ### 2019
 
 <span style="color:royalblue;font-weight:bold">[ICPP'19]</span> *TLB: Traffic-aware Load Balancing with Adaptive Granularity in Data Center Networks* <br>
 Jinbin Hu, Jiawei Huang, **Wenjun Lyu**, Weihe Li, Jianxin Wang, Tian He<br><span style="background-color:royalblue;color:White"> Best Paper Candidate </span>
 
-
----
 
 ### 2018
 
