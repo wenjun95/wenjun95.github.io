@@ -50,4 +50,4 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 
 
 
- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=253&t=m&d=EQYPlw5lDg15RcgG0z_hUteyGtKKwFr6VRGHCriccuo'></script>
+
