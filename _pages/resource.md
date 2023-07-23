@@ -15,7 +15,4 @@ author_profile: true
 * [Latex symbols 2](https://artofproblemsolving.com/wiki/index.php/LaTeX:Symbols) 
 * [Latex best practices](https://www.acm.org/publications/taps/latex-best-practices)
 
-### Data-sets
 
-* [On-demand delivery order distrbution in Shenzhen](https://tianchi.aliyun.com/dataset/dataDetail?dataId=106807)
-* [Beacons, couriers' reports and trajectories](https://tianchi.aliyun.com/dataset/dataDetail?dataId=76359)
