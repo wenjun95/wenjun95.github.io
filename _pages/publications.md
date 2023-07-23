@@ -7,8 +7,6 @@ author_profile: true
 ---
 ### 2023 
 
-<span style="color:green;font-weight:bold">[KDD'23]</span> *Towards Equitable Assignment: Data-Driven Delivery Zone Partition at Last-mile Logistics* <br>
-**Baoshen Guo**, Shuai Wang, Haotian Wang, Yunhuai Liu, Fanshuo Kong, Desheng Zhang, Tian He<br> 
 
 <span style="color:green;font-weight:bold">[KDD'23]</span> *FairCod: A Fairness-aware Concurrent Dispatch System for Large-scale Instant Delivery Services* <br>
 Lin Jiang, Shuai Wang, **Baoshen Guo**, Hai Wang, Desheng Zhang, Guang Wang<br>
