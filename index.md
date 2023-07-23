@@ -29,11 +29,11 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 ### <span style="color:green;font-weight:bold">Research Experiences</span>
 
 > **Research Intern in JD Logistics    &nbsp;&nbsp;&nbsp;       Mar. 2021 - Aug. 2021, Jun. 2022-Now**
- * Lead a team to design a homogeneous order grouping system to improve couriers’ workload measurement in last-mile delivery based on couriers’ reporting data, which has been deployed on a nationwide scale.
- * Propose a relay-based last-mile delivery scheme to improve delivery efficiency and led a team to design a relay route generation algorithm based on fined-grained courier mobility features, which has been deployed in more than 100 delivery stations.
- * Lead a team to design a truck scheduling system for transporting orders from the transfer center to multiple delivery stations with the goal of minimizing the average order delivery time.
- * Lead a team to design a workload-aware task assignment system in last-mile delivery to assign delivery tasks to couriers with the goal of achieving fairness among couriers from the energy consumption perspective.
- * Lead a team to design a heterogeneous task assignment system in last-mile delivery to assign delivery tasks, customer expansion tasks, and real-time pick-up tasks to couriers to maximize the platform’s revenue.
+ * Design a homogeneous order grouping system to improve couriers’ workload measurement in last-mile delivery based on couriers’ reporting data, which has been deployed on a nationwide scale.
+ * Propose a relay-based last-mile delivery scheme to improve delivery efficiency and design a relay route generation algorithm based on fined-grained courier mobility features, which has been deployed in more than 100 delivery stations.
+ * Design a truck scheduling system for transporting orders from the transfer center to multiple delivery stations with the goal of minimizing the average order delivery time.
+ * Design a workload-aware task assignment system in last-mile delivery to assign delivery tasks to couriers with the goal of achieving fairness among couriers from the energy consumption perspective.
+ * Design a heterogeneous task assignment system in last-mile delivery to assign delivery tasks, customer expansion tasks, and real-time pick-up tasks to couriers to maximize the platform’s revenue.
 
 
 
