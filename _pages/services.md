@@ -1,5 +1,5 @@
 ---
-title: "Awards and Services"
+title: "Award and Services"
 permalink: /Services/
 author_profile: true
 ---
