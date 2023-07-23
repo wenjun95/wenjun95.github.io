@@ -1,18 +1,8 @@
 ---
-title: "Services and Award"
+title: "Awards and Services"
 permalink: /Services/
 author_profile: true
 ---
-### Reviewer
-
-* Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
-* IEEE/ACM Transactions on Networking (ToN)
-* IEEE Transactions on Intelligent Transportation Systems (TITS)
-* IEEE Transactions on Network Science and Engineering (TNSE)
-* IEEE Smart City 2022
-* IEEE ICA3PP workshop 2023
-
-
 ## Awards
 
 * Fellowship of Rutgers University, 2021 (**The Only Winner in Computer Science**)
@@ -27,6 +17,19 @@ author_profile: true
 * Post-graduate Key Exploration Project, 2018 (**Top 1%**)
 * APNet Student Travel Grant, 2018
 * ICNP Student Travel Grant, 2018
+
+
+### Reviewer
+
+* Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
+* IEEE/ACM Transactions on Networking (ToN)
+* IEEE Transactions on Intelligent Transportation Systems (TITS)
+* IEEE Transactions on Network Science and Engineering (TNSE)
+* IEEE Smart City 2022
+* IEEE ICA3PP workshop 2023
+
+
+
 
 
 
