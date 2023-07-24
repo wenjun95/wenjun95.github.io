@@ -43,10 +43,10 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 
 * Apr. 2023: A 1st-authored paper PSOT accepted by IJCAI 2023.
 * Apr. 2023: Co-authored paper accepted by ACM Transactions on Sensor Networks (TOSN).
-* Feb. 2023: A 1t-authored paper REDE accepted by ICDE 2023
+* Feb. 2023: A 1st-authored paper REDE accepted by ICDE 2023
 * Aug. 2022: Two Co-authored papers accepted by ACM SIGSPATIAL 2022.
 * Aug. 2022: A 1st-authored paper FHOG accepted by CIKM 2022
-* Oct. 2021: A 1st-authored paper accepted by IMWUT/Ubicomp.
+* Oct. 2021: A 1st-authored paper Mover accepted by IMWUT/Ubicomp.
 
 
 
