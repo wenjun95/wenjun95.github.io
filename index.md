@@ -41,6 +41,7 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 
 [//]: # (**Recent News**)
 
+* Aug. 2023: Two Co-authored papers accepted by CIKM 2023.
 * Apr. 2023: A 1st-authored paper PSOT accepted by IJCAI 2023.
 * Apr. 2023: Co-authored paper accepted by ACM Transactions on Sensor Networks (TOSN).
 * Feb. 2023: A 1st-authored paper REDE accepted by ICDE 2023
