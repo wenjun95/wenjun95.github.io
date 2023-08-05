@@ -15,7 +15,7 @@ author_profile: true
 <span style="color:black;font-weight:bold">[CIKM'23]</span> *Urban-scale POI Updating with Crowd Intelligence* <br>
 Zhiqing Hong, Haotian Wang, **Wenjun Lyu**, Hai Wang, Yunhuai Liu, Guang Wang, Tian He, Desheng Zhang<br>
 
-<span style="color:black;font-weight:bold">[CIKM'23]</span> *RLIFE: Remaining Lifespan Prediction for E-scooters* <be>
+<span style="color:black;font-weight:bold">[CIKM'23]</span> *RLIFE: Remaining Lifespan Prediction for E-scooters* <br>
 Shuxin Zhong, William Yubeaton, **Wenjun Lyu**, Guang Wang, Desheng Zhang, Yu Yang<br>
 
 <span style="color:black;font-weight:bold">[IJCAI'23]</span> *A Prediction-and-Scheduling Framework for Efficient Order Transfer in Logistics* <br>
