@@ -12,8 +12,8 @@ author_profile: true
 
 ### 2023 
 
-<span style="color:black;font-weight:bold">[ICA3PP'23]</span> *CAST: An Intricate-Scene Aware Adaptive Bitrate Approach for Video Streaming via Parallel Training* <br><span style="background-color:gray;color:White"> Best Student Paper</span>
-Weihe Li, Jiawei Huang, Yu Liang, Jingling Liu, Wenlu Zhang, **Wenjun Lyu**, Jianxin Wang<br>
+<span style="color:black;font-weight:bold">[ICA3PP'23]</span> *CAST: An Intricate-Scene Aware Adaptive Bitrate Approach for Video Streaming via Parallel Training* <br>
+Weihe Li, Jiawei Huang, Yu Liang, Jingling Liu, Wenlu Zhang, **Wenjun Lyu**, Jianxin Wang<br><span style="background-color:gray;color:White"> Best Student Paper</span>
 
 <span style="color:black;font-weight:bold">[CIKM'23]</span> *Urban-scale POI Updating with Crowd Intelligence* <br>
 Zhiqing Hong, Haotian Wang, **Wenjun Lyu**, Hai Wang, Yunhuai Liu, Guang Wang, Tian He, Desheng Zhang<br>
