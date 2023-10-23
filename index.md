@@ -41,6 +41,7 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 
 [//]: # (**Recent News**)
 
+* Oct. 2023: A Co-authored paper accepted by ICA3PP 2023 is awarded the best student paper.
 * Aug. 2023: Two Co-authored papers accepted by CIKM 2023.
 * Apr. 2023: A 1st-authored paper PSOT accepted by IJCAI 2023.
 * Apr. 2023: Co-authored paper accepted by ACM Transactions on Sensor Networks (TOSN).
