@@ -27,6 +27,7 @@ author_profile: true
 * IEEE Transactions on Network Science and Engineering (TNSE)
 * IEEE Smart City 2022
 * IEEE ICA3PP workshop 2023
+* IEEE ICASSP 2024
 
 
 
