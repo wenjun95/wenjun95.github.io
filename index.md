@@ -22,7 +22,7 @@ author_profile: true
 I am a final-year Ph.D. student at Rutgers University, under the supervision of Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/). I am also working with Prof. [Yunhuai Liu](http://www.yunhuai.net/Yunhuai.htm) in research. I obtained my master degree from Central South University, under the supervision of Prof. [Jiawei Huang](https://faculty.csu.edu.cn/jiaweihuang/zh_CN/index/27174/list/index.htm).
 
 
-My research interests are broadly in the areas of **Cyber-Physical Systems**, and **Data-Driven Applications** in **Smart Logistics**.<br>You can contact me at wenjun.lyu AT rutgers DOT edu.
+My research interests are broadly in the areas of **Cyber-Physical Systems**, **Data Center Networks**, and **Distributed Machine Learning Systems**. Currently, I focus on **Data-Driven Applications** in **Smart Logistics**.<br>You can contact me at wenjun.lyu AT rutgers DOT edu.
 My publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=_LMyrNQAAAAJ&hl=en). 
 
 [//]: # (**Research Experiences** )
