@@ -10,6 +10,10 @@ author_profile: true
 
 ---
 
+### 2024
+<span style="color:black;font-weight:bold">[IWQOS'24]</span> *SGC: Similarity-Guided Gradient Compression for Distributed Deep Learning* <br>
+Jingling Liu, Jiawei Huang, Yijun Li, Zhaoyi Li, **Wenjun Lyu**, Wenchao Jiang, Jianxin Wang<br>
+
 ### 2023 
 
 <span style="color:black;font-weight:bold">[ICA3PP'23]</span> *CAST: An Intricate-Scene Aware Adaptive Bitrate Approach for Video Streaming via Parallel Training* <br>
