@@ -41,7 +41,9 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 
 [//]: # (**Recent News**)
 
-* Apr. 2024: A Co-authored paper accepted by IEEE/ACM IWQOS.
+* Jul. 2024: Three co-authored papers accepted by CIKM 2024. Congratulations to Shuxin!
+* May. 2024: A Co-authored paper accepted by IEEE TKDE and a co-authored paper accepted by IEEE TMC.
+* Apr. 2024: A Co-authored paper accepted by IEEE/ACM IWQOS. Congratulations to Prof. Liu!
 * Feb. 2024: A Co-authored paper accepted by IEEE Transactions on Cloud Computing.
 * Oct. 2023: A Co-authored paper accepted by ICA3PP 2023 is awarded the best student paper.
 * Aug. 2023: Two Co-authored papers accepted by CIKM 2023.
