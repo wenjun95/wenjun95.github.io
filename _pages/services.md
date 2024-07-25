@@ -23,6 +23,7 @@ author_profile: true
 
 * Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 * IEEE/ACM Transactions on Networking (ToN)
+* IEEE Transactions on Mobile Computing (TMC)
 * IEEE Transactions on Intelligent Transportation Systems (TITS)
 * IEEE Transactions on Network Science and Engineering (TNSE)
 * IEEE Smart City 2022
