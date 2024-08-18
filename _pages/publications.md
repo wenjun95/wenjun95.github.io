@@ -92,6 +92,10 @@ Jinbin Hu, Jiawei Huang, **Wenjun Lyu**, Yutao Zhou, Jianxin Wang, Tian He<br>
 **Selected Journal Publications**
 
 ---
+<span style="color:black;font-weight:bold">[TMC'24]</span> *Nationwide Behavior-Aware Coordinates Mining from Uncertain Delivery Events* <br>Zhiqing Hong, Guang Wang, **Wenjun Lyu**, Baoshen Guo, Yi Ding, Haotian Wang, Shuai Wang, Yunhuai Liu, and Desheng Zhang<br>
+
+<span style="color:black;font-weight:bold">[TMC'24]</span> *Optimizing Video Streaming in Dynamic Networks: An Intelligent Adaptive Bitrate Solution Considering Scene Intricacy and Data Budget* <br>Weihe Li, Jiawei Huang, Yu Liang, Qichen Su, Jingling Liu, **Wenjun Lyu**, Jianxin Wang<br>
+
 <span style="color:black;font-weight:bold">[TCC'24]</span> *Cyclic Matrix Coding to Mitigate ACK Blocking of MPTCP in Data Center Networks* <br>Zhaoyi Li, Jiawei Huang, Shiqi Wang, **Wenjun Lyu**, Jianxin Wang<br>
 
 <span style="color:black;font-weight:bold">[TOSN'23]</span> *OPTI: Order Preparation Time Inference for On-demand Delivery* <br>Zhigang Dai, **Wenjun Lyu**, Yi Ding, Yiwei Song, Yunhuai Liu<br>
