@@ -11,6 +11,12 @@ author_profile: true
 ---
 
 ### 2024
+<span style="color:black;font-weight:bold">[CIKM'24]</span> *AdaTrans: Adaptive Transfer Time Prediction for Multi-modal Transportation Modes* <br>Shuxin Zhong, Hua Wei, **Wenjun Lyu**, Guang Yang, Zhiqing Hong, Guang Wang, Yu Yang and Desheng Zhang<br>
+
+<span style="color:black;font-weight:bold">[CIKM'24]</span> *A Behavior-aware Cause Identification Framework for Order Cancellation in Logistics Service* <br>Shuxin Zhong, Yahan Gu, **Wenjun Lyu**, Hongyu Lin, Guang Yang, Yao Lu, Guang Wang, Yu Yang and Desheng Zhang<br>
+
+<span style="color:black;font-weight:bold">[CIKM'24]</span> *Adaptive Cross-platform Transportation Time Prediction for Logistics* <br>Shuxin Zhong, **Wenjun Lyu**, Zhiqing Hong, Guang Yang, Weijian Zuo, Haotian Wang, Guang Wang, Yu Yang and Desheng Zhang<br>
+
 <span style="color:black;font-weight:bold">[IWQOS'24]</span> *SGC: Similarity-Guided Gradient Compression for Distributed Deep Learning* <br>
 Jingling Liu, Jiawei Huang, Yijun Li, Zhaoyi Li, **Wenjun Lyu**, Wenchao Jiang, Jianxin Wang<br>
 
