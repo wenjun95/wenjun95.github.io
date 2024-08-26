@@ -41,6 +41,7 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 
 [//]: # (**Recent News**)
 
+* Aug. 2024: A co-authored paper accepted by SIGSPATIAL 2024. Congratulations to Zhihan and Guang!
 * Jul. 2024: Three co-authored papers accepted by CIKM 2024. Congratulations to Shuxin!
 * May. 2024: A Co-authored paper accepted by IEEE TKDE and a co-authored paper accepted by IEEE TMC.
 * Apr. 2024: A Co-authored paper accepted by IEEE/ACM IWQOS. Congratulations to Prof. Liu!
