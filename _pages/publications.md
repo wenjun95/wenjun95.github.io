@@ -9,8 +9,19 @@ author_profile: true
 **Selected Conference Publications**
 
 ---
+### 2025
+<span style="color:black;font-weight:bold">[WWW'25]</span> *InCo: Exploring Inter-Trip Cooperation for Efficient Last-mile Delivery* <br>**Wenjun Lyu**, Shuxin Zhong, Guang Yang, Haotian Wang, Yi Ding, Shuai Wang, Yunhuai Liu, Tian He and Desheng Zhang<br>
+
+<span style="color:black;font-weight:bold">[AAAI'25]</span> *AdaService: Adaptive Multi-faceted Service Capabilities Co-Estimation for Nationwide Terminal Stations in Logistics* <br>Shuxin Zhong, Kimberly Liu, **Wenjun Lyu**, Haotian Wang, Guang Wang, Yunhuai Liu, Tian He, Yu Yang, Desheng Zhang<br>
+
+<span style="color:black;font-weight:bold">[KDD'25]</span> *Scalable Area Difficulty Assessment with Knowledge-enhanced AI for Nationwide Logistics Systems* <br>Zejun Xie, **Wenjun Lyu**, Yiwei Song, Haotian Wang, Guang Yang, Yunhuai Liu, Tian He, Desheng Zhang, Guang Wang<br>
+
+
 
 ### 2024
+
+<span style="color:black;font-weight:bold">[SIGSPATIAL'25]</span> *Improving Network Robustness via Cellular Infrastructure Sharing: An Empirical Study of Infrastructure Failure with All Cellular Operators in a City* <br>Zhihan Fang, Guang Yang, **Wenjun Lyu**, Zhiqing Hong, Shuxin Zhong, Weijian Zuo, Yu Yang, Guang Wang, Desheng Zhang.<br>
+
 <span style="color:black;font-weight:bold">[CIKM'24]</span> *AdaTrans: Adaptive Transfer Time Prediction for Multi-modal Transportation Modes* <br>Shuxin Zhong, Hua Wei, **Wenjun Lyu**, Guang Yang, Zhiqing Hong, Guang Wang, Yu Yang and Desheng Zhang<br>
 
 <span style="color:black;font-weight:bold">[CIKM'24]</span> *A Behavior-aware Cause Identification Framework for Order Cancellation in Logistics Service* <br>Shuxin Zhong, Yahan Gu, **Wenjun Lyu**, Hongyu Lin, Guang Yang, Yao Lu, Guang Wang, Yu Yang and Desheng Zhang<br>
