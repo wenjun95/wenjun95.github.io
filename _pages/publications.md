@@ -105,6 +105,8 @@ Jinbin Hu, Jiawei Huang, **Wenjun Lyu**, Yutao Zhou, Jianxin Wang, Tian He<br>
 **Selected Journal Publications**
 
 ---
+<span style="color:black;font-weight:bold">[TMC'24]</span> *Towards Workload-constrained Efficient Order Assignment in Last-mile Delivery* <br>**Wenjun Lyu**, Xiaolong Jin, Haotian Wang, Yiwei Song, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang<br>
+
 <span style="color:black;font-weight:bold">[TKDE'24]</span> *Nationwide Behavior-Aware Coordinates Mining from Uncertain Delivery Events* <br>Zhiqing Hong, Guang Wang, **Wenjun Lyu**, Baoshen Guo, Yi Ding, Haotian Wang, Shuai Wang, Yunhuai Liu, and Desheng Zhang<br>
 
 <span style="color:black;font-weight:bold">[TMC'24]</span> *Optimizing Video Streaming in Dynamic Networks: An Intelligent Adaptive Bitrate Solution Considering Scene Intricacy and Data Budget* <br>Weihe Li, Jiawei Huang, Yu Liang, Qichen Su, Jingling Liu, **Wenjun Lyu**, Jianxin Wang<br>
