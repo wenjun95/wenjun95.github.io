@@ -40,11 +40,14 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 ### <span style="color:DarkRed;font-weight:bold">Recent News</span>
 
 [//]: # (**Recent News**)
-
-* Aug. 2024: A co-authored paper accepted by SIGSPATIAL 2024. Congratulations to Zhihan and Guang!
-* Jul. 2024: Three co-authored papers accepted by CIKM 2024. Congratulations to Shuxin!
+* Jan. 2025: A 1st-authored paper accepted by WWW 2025.
+* Dec. 2024: A co-authored paper accepted by AAAI 2025
+* Nov. 2024: A co-authored paper accepted by KDD 2025.
+* Sep. 2024: A 1st-authored paper accepted by IEEE TMC.
+* Aug. 2024: A co-authored paper accepted by SIGSPATIAL 2024. 
+* Jul. 2024: Three co-authored papers accepted by CIKM 2024. 
 * May. 2024: A Co-authored paper accepted by IEEE TKDE and a co-authored paper accepted by IEEE TMC.
-* Apr. 2024: A Co-authored paper accepted by IEEE/ACM IWQOS. Congratulations to Prof. Liu!
+* Apr. 2024: A Co-authored paper accepted by IEEE/ACM IWQOS. 
 * Feb. 2024: A Co-authored paper accepted by IEEE Transactions on Cloud Computing.
 * Oct. 2023: A Co-authored paper accepted by ICA3PP 2023 is awarded the best student paper.
 * Aug. 2023: Two Co-authored papers accepted by CIKM 2023.
