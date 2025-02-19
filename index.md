@@ -19,22 +19,32 @@ author_profile: true
 [//]: # (**Biography**)
 ### <span style="color:royalBlue;font-weight:bold">Biography</span>
 
-I am a final-year Ph.D. student at Rutgers University, under the supervision of Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/). I am also working with Prof. [Yunhuai Liu](http://www.yunhuai.net/Yunhuai.htm) and Prof. [Shuai Wang](https://cse.seu.edu.cn/2019/0107/c23024a257643/page.htm) in research. I obtained my master degree from Central South University, under the supervision of Prof. [Jiawei Huang](https://faculty.csu.edu.cn/jiaweihuang/zh_CN/index/27174/list/index.htm).
+I am a final-year Ph.D. student at Rutgers University, under the supervision of Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/). I am also working with Prof. [Tian He](https://scholar.google.com/citations?user=hc1m_BQAAAAJ&hl=en&oi=ao), Prof. [Yunhuai Liu](http://www.yunhuai.net/Yunhuai.htm) and Prof. [Shuai Wang](https://cse.seu.edu.cn/2019/0107/c23024a257643/page.htm) in research. I obtained my master degree from Central South University, under the supervision of Prof. [Jiawei Huang](https://faculty.csu.edu.cn/jiaweihuang/zh_CN/index/27174/list/index.htm).
 
 
-My research interests are broadly in the areas of **Cyber-Physical Systems**, **Data Center Networks**, and **Distributed Machine Learning Systems**. Currently, I focus on **Data-Driven Applications** in **Smart Logistics**.<br>You can contact me at wenjun.lyu AT rutgers DOT edu.
+My research is concentrated in the areas of **Human-Centric Cyber-Physical Systems** and **Spatial-Temporal Data Science**.
+I focus on exploring various techniques, e.g., Large Language Models (LLMs), Robust Machine Learning, and Interpretable Large-scale System Optimization, for predictive analytics and decision-making problems in smart cities.
+My work is informed by real-world demands and the systems I developed have been deployed **nationwide** to improve urban life and promote environmental sustainability.
 My publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=_LMyrNQAAAAJ&hl=en). 
 
-[//]: # (**Research Experiences** )
+[//]: # (**Industry Experiences** )
 ### <span style="color:green;font-weight:bold">Research Experiences</span>
 
-> **Research Intern in JD Logistics    &nbsp;&nbsp;&nbsp;       Mar. 2021 - Aug. 2021, Jun. 2022-Now**
- * Design a homogeneous order grouping system to improve couriers’ workload measurement in last-mile delivery based on couriers’ reporting data, which has been deployed on a nationwide scale.
- * Propose a relay-based last-mile delivery scheme to improve delivery efficiency and design a relay route generation algorithm based on fined-grained courier mobility features, which has been deployed in more than 100 delivery stations.
- * Design a truck scheduling system for transporting orders from the transfer center to multiple delivery stations with the goal of minimizing the average order delivery time.
- * Design a workload-aware task assignment system in last-mile delivery to assign delivery tasks to couriers with the goal of achieving fairness among couriers from the energy consumption perspective.
- * Design a heterogeneous task assignment system in last-mile delivery to assign delivery tasks, customer expansion tasks, and real-time pick-up tasks to couriers to maximize the platform’s revenue.
+> **Research Intern in JD Logistics    &nbsp;&nbsp;&nbsp;       Summer 2021**
+ * Led a fair courier workload measurement project, which has been **deployed nationwide**
+ 
+> **Research Intern in JD Logistics    &nbsp;&nbsp;&nbsp;       Summer 2022**
+ * Led a relay-based courier scheduling project in last-mile logistics, which has been **deployed in more than 200 delivery stations**, serving about 1 million orders a day
+ * Led an order transportation optimization project, which has been **deployed in one major city in China**
 
+> **Research Intern in JD Logistics    &nbsp;&nbsp;&nbsp;       Summer 2023**
+ * Led a courier workload measurement project to achieve fair last-mile task assignments
+ * Led a cooperation-based last-mile delivery project to improve courier efficiency, which has been **deployed in more than 200 delivery stations**
+
+> **Research Intern in JD Logistics    &nbsp;&nbsp;&nbsp;       Summer 2024**
+ * Led a heterogeneous task assignment system to optimize courier efficiency in conducting various tasks
+ * Led a heterogeneous worker scheduling project to optimize courier and sale cooperation in last-mile logistics
+ * Led a nationwide order-level carbon footprint measurement project to quantify the environmental impact of the logistics industry
 
 
 ### <span style="color:DarkRed;font-weight:bold">Recent News</span>
