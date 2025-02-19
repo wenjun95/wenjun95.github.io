@@ -5,6 +5,8 @@ author_profile: true
 ---
 ## Awards
 
+* Best Student Paper of ICA3PP, 2023
+* Distinguish Paper Award, IoT Committee of Chinese Institute of Electronics, 2023
 * Fellowship of Rutgers University, 2021 (**The Only Winner in Computer Science**)
 * KDD Student Registration Award, 2021, 2020
 * ICDCS Student Registration Award, 2021
@@ -19,7 +21,7 @@ author_profile: true
 * ICNP Student Travel Grant, 2018
 
 
-### Reviewer
+### Reviewer and TPC
 
 * Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 * IEEE/ACM Transactions on Networking (ToN)
@@ -31,14 +33,8 @@ author_profile: true
 * IEEE Transactions on Industrial Informatics (TII)
 * IEEE Internet of Things Journal
 * Computer Networks
-* IJCAI 2025
-* SIGKDD 2025
-* AAAI 2025
-* IJCNN 2025
-* ACM WSDM 2025
-* Eurosys AEC 2025
-* IEEE ICASSP 2024, 2025
-* Sensys AEC 2024
+* IJCAI 2025, SIGKDD 2025, AAAI 2025, IJCNN 2025, ACM WSDM 2025, Eurosys AEC 2025, IEEE ICASSP 2025
+* IEEE ICASSP 2024, Sensys AEC 2024
 * IEEE ICA3PP workshop 2023
 * IEEE Smart City 2022
 
