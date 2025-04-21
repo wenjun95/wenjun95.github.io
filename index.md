@@ -43,8 +43,8 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 
 > **Research Intern in JD Logistics    &nbsp;&nbsp;&nbsp;       Summer 2024**
  * Led a heterogeneous task assignment system to optimize courier efficiency in conducting various tasks
- * Led a heterogeneous worker scheduling project to optimize courier and sale cooperation in last-mile logistics
- * Led a nationwide order-level carbon footprint measurement project to quantify the environmental impact of the logistics industry
+ * Led a heterogeneous worker scheduling project to optimize courier and sales cooperation
+ * Led nationwide order-level carbon footprint measurement to quantify the environmental impact of logistics
 
 
 ### <span style="color:DarkRed;font-weight:bold">Recent News</span>
