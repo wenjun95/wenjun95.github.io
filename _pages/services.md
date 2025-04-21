@@ -1,13 +1,13 @@
 ---
-title: "Award and Services"
+title: "Awards and Services"
 permalink: /Services/
 author_profile: true
 ---
 ## Awards
 
 * Best Student Paper of ICA3PP, 2023
-* Distinguish Paper Award, IoT Committee of Chinese Institute of Electronics, 2023
-* Fellowship of Rutgers University, 2021 (**The Only Winner in Computer Science**)
+* Distinguished Paper Award, IoT Committee of Chinese Electronics Institute, 2023
+* Fellowship of Rutgers University, 2021
 * KDD Student Registration Award, 2021, 2020
 * ICDCS Student Registration Award, 2021
 * Outstanding Graduates of Hunan Province, 2020 (**Top 3%**)
@@ -33,7 +33,7 @@ author_profile: true
 * IEEE Transactions on Industrial Informatics (TII)
 * IEEE Internet of Things Journal
 * Computer Networks
-* IJCAI 2025, SIGKDD 2025, AAAI 2025, IJCNN 2025, ACM WSDM 2025, Eurosys AEC 2025, IEEE ICASSP 2025
+* ACM MM 2025, IJCAI 2025, SIGKDD 2025, AAAI 2025, IJCNN 2025, ACM WSDM 2025, Eurosys AEC 2025, IEEE ICASSP 2025
 * IEEE ICASSP 2024, Sensys AEC 2024
 * IEEE ICA3PP workshop 2023
 * IEEE Smart City 2022
