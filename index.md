@@ -56,15 +56,15 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 * Sep. 2024: A 1st-authored paper accepted by IEEE TMC.
 * Aug. 2024: A co-authored paper accepted by SIGSPATIAL 2024. 
 * Jul. 2024: Three co-authored papers accepted by CIKM 2024. 
-* May. 2024: A Co-authored paper accepted by IEEE TKDE and a co-authored paper accepted by IEEE TMC.
-* Apr. 2024: A Co-authored paper accepted by IEEE/ACM IWQOS. 
-* Feb. 2024: A Co-authored paper accepted by IEEE Transactions on Cloud Computing.
-* Oct. 2023: A Co-authored paper accepted by ICA3PP 2023 is awarded the best student paper.
-* Aug. 2023: Two Co-authored papers accepted by CIKM 2023.
+* May. 2024: A co-authored paper accepted by IEEE TKDE and a co-authored paper accepted by IEEE TMC.
+* Apr. 2024: A co-authored paper accepted by IEEE/ACM IWQOS. 
+* Feb. 2024: A co-authored paper accepted by IEEE Transactions on Cloud Computing.
+* Oct. 2023: A co-authored paper accepted by ICA3PP 2023 is awarded the best student paper.
+* Aug. 2023: Two co-authored papers accepted by CIKM 2023.
 * Apr. 2023: A 1st-authored paper PSOT accepted by IJCAI 2023.
 * Apr. 2023: Co-authored paper accepted by ACM Transactions on Sensor Networks (TOSN).
 * Feb. 2023: A 1st-authored paper REDE accepted by ICDE 2023
-* Aug. 2022: Two Co-authored papers accepted by ACM SIGSPATIAL 2022.
+* Aug. 2022: Two co-authored papers accepted by ACM SIGSPATIAL 2022.
 * Aug. 2022: A 1st-authored paper FHOG accepted by CIKM 2022
 * Oct. 2021: A 1st-authored paper Mover accepted by IMWUT/Ubicomp.
 
