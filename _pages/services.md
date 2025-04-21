@@ -6,7 +6,7 @@ author_profile: true
 ## Awards
 
 * Best Student Paper of ICA3PP, 2023
-* Distinguished Paper Award, IoT Committee of Chinese Electronics Institute, 2023
+* Distinguished Paper, IoT Committee of Chinese Electronics Institute, 2023
 * Fellowship of Rutgers University, 2021
 * KDD Student Registration Award, 2021, 2020
 * ICDCS Student Registration Award, 2021
