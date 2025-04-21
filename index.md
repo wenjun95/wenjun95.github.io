@@ -50,6 +50,7 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 ### <span style="color:DarkRed;font-weight:bold">Recent News</span>
 
 [//]: # (**Recent News**)
+* Feb. 2025: A co-authored paper accepted by IEEE TMC.
 * Jan. 2025: A 1st-authored paper accepted by WWW 2025.
 * Dec. 2024: A co-authored paper accepted by AAAI 2025
 * Nov. 2024: A co-authored paper accepted by KDD 2025.
