@@ -5,6 +5,7 @@ author_profile: true
 ---
 ## Awards
 
+* CS Department Rizvi Research Excellence Award of Rutgers University, 2025
 * Best Student Paper of ICA3PP, 2023
 * Distinguished Paper, IoT Committee of Chinese Electronics Institute, 2023
 * Fellowship of Rutgers University, 2021
