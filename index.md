@@ -50,6 +50,8 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 ### <span style="color:DarkRed;font-weight:bold">Recent News</span>
 
 [//]: # (**Recent News**)
+* May. 2025: A co-authored paper accepted by ACL(Industry Track) 2025.
+* Apr. 2025: A co-authored paper accepted by IEEE/ACM IWQOS 2025.
 * Feb. 2025: A co-authored paper accepted by IEEE TMC.
 * Jan. 2025: A 1st-authored paper accepted by WWW 2025.
 * Dec. 2024: A co-authored paper accepted by AAAI 2025
@@ -58,7 +60,7 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 * Aug. 2024: A co-authored paper accepted by SIGSPATIAL 2024. 
 * Jul. 2024: Three co-authored papers accepted by CIKM 2024. 
 * May. 2024: A co-authored paper accepted by IEEE TKDE and a co-authored paper accepted by IEEE TMC.
-* Apr. 2024: A co-authored paper accepted by IEEE/ACM IWQOS. 
+* Apr. 2024: A co-authored paper accepted by IEEE/ACM IWQOS 2024. 
 * Feb. 2024: A co-authored paper accepted by IEEE Transactions on Cloud Computing.
 * Oct. 2023: A co-authored paper accepted by ICA3PP 2023 is awarded the best student paper.
 * Aug. 2023: Two co-authored papers accepted by CIKM 2023.
