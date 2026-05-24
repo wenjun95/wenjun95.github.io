@@ -75,6 +75,6 @@ My publications can be found at [Google Scholar](https://scholar.google.com/cita
 
 <span style="color:red;font-weight:bold">[CIKM'22]</span> **Towards Fair Workload Assessment via Homogeneous Order Grouping in Last-mile
 Delivery.** <br>**Wenjun Lyu**, Kexin Zhang, Baoshen Guo, Zhiqing Hong, Guang Yang, Guang Wang, Yu Yang, Yunhuai Liu, Desheng Zhang.<br>
-<span style="color:red;font-weight:bold">The system has been deployed at JD Logistics in Nationwide scale for courier workload measurement.</span>
+⭐<span style="color:red;font-weight:bold">The system has been deployed at JD Logistics in Nationwide scale for courier workload measurement.</span>
 
 
