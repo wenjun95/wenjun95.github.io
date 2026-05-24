@@ -71,7 +71,7 @@ Systems** <br>Zejun Xie, **Wenjun Lyu**, Yiwei Song, Haotian Wang, Guang Yang, Y
 
 ### 2023
 
-<span style="color:red;font-weight:bold">[IJCAI'23]</span> **A Prediction-and-Scheduling Framework for Efficient Order Transfer in Logistics** <br>Shuxin Zhong, Kimberly Liu, Wenjun Lyu, Haotian Wang, Guang Wang, Yunhuai Liu, Tian He, Yu Yang, Desheng Zhang.<br>
+<span style="color:red;font-weight:bold">[IJCAI'23]</span> **A Prediction-and-Scheduling Framework for Efficient Order Transfer in Logistics** <br>**Wenjun Lyu**, Haotian Wang, Yiwei Song, Yunhuai Liu, Tian He, Desheng Zhang.<br>
 
 <span style="color:red;font-weight:bold">[ICDE'23]</span> **REDE: Exploring Relay Transportation for Efficient Last-mile Delivery** <br>**Wenjun Lyu**, Haotian Wang, Zhiqing Hong, Guang Wang, Yu Yang, Yunhuai Liu, Desheng Zhang.<br>
 
