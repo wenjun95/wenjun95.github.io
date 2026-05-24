@@ -69,7 +69,7 @@ My publications can be found at [Google Scholar](https://scholar.google.com/cita
 ⭐<span style="color:red;font-weight:bold">The system is the first work to optimize the multi-source delivery services.</span>
 
 <span style="color:blue;font-weight:bold">[TMC'25]</span> **HeroCS: Cooperative Courier Scheduling for Heterogeneous Tasks in Last-mile Delivery** <br>**Wenjun Lyu**, Liyu Zhang, Shuxin Zhong, Haotian Wang, Chao Li, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang.<br>
-⭐<span style="color:red;font-weight:bold">The system has been deployed at JD Logistics to schedule couriers to try delivery, pick-up, and customer expansion tasks.</span>
+⭐<span style="color:red;font-weight:bold">The system is the first work to scheduling couriers for delivery, pick-up, and customer expansion tasks, which has been deployed at JD Logistics.</span>
 
 <span style="color:red;font-weight:bold">[WWW'25]</span> **InCo: Exploring Inter-Trip Cooperation for Efficient Last-mile Delivery** <br>**Wenjun Lyu**, Shuxin Zhong, Guang Yang, Haotian Wang, Yi Ding, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang.<br>
 ⭐<span style="color:red;font-weight:bold">The system has been deployed at JD Logistics for more than 100 delivery stations to improve last-mile delivery efficiency.</span>
