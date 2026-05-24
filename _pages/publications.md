@@ -6,6 +6,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+### **Publications**
+(‡ Equal contribution, † Corresponding author)
 
 ### 2026
 
