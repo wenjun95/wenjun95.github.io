@@ -14,11 +14,13 @@ author_profile: true
 <span style="color:black;font-weight:bold">[KDD'26]</span> *WISE: Hierarchical Worker Scheduling for Efficient Multi-Source Urban Delivery* <br>**Wenjun Lyu**, Fangyu Li, Shanshan Wang, Yikang Zhang, Haotian Wang, Yunhuai Liu, Tian He, Desheng Zhang<br>
 
 
-<span style="color:black;font-weight:bold">[WWW'25]</span> *InCo: Exploring Inter-Trip Cooperation for Efficient Last-mile Delivery* <br>**Wenjun Lyu**, Shuxin Zhong, Guang Yang, Haotian Wang, Yi Ding, Shuai Wang, Yunhuai Liu, Tian He and Desheng Zhang<br>
+<span style="color:black;font-weight:bold">[TMC‘26]</span> *Mobility-Aware Order Relay in Last-mile Delivery* <br>**Wenjun Lyu**, Haotian Wang, Zhiqing Hong, Guang Wang, Yu Yang, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang<br>
 
-<span style="color:black;font-weight:bold">[AAAI'25]</span> *AdaService: Adaptive Multi-faceted Service Capabilities Co-Estimation for Nationwide Terminal Stations in Logistics* <br>Shuxin Zhong, Kimberly Liu, **Wenjun Lyu**, Haotian Wang, Guang Wang, Yunhuai Liu, Tian He, Yu Yang, Desheng Zhang<br>
+<span style="color:black;font-weight:bold">[AAAI'26 (Oral)]</span> *LMGL-WD: LLM-Guided Multi-Task Graph Learning for Category-Level Warehouse Demand Prediction in E-Commerce* <br>**Wenjun Lyu‡,†**, Fangyu Li‡, Yudong Zhang, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang<br>
 
-<span style="color:black;font-weight:bold">[KDD'25]</span> *Scalable Area Difficulty Assessment with Knowledge-enhanced AI for Nationwide Logistics Systems* <br>Zejun Xie, **Wenjun Lyu**, Yiwei Song, Haotian Wang, Guang Yang, Yunhuai Liu, Tian He, Desheng Zhang, Guang Wang<br>
+### 2025
+
+<span style="color:black;font-weight:bold">[TMC'25]</span> *HeroCS: Cooperative Courier Scheduling for Heterogeneous Tasks in Last-mile Delivery* <br>**Wenjun Lyu**, Liyu Zhang, Shuxin Zhong, Haotian Wang, Chao Li, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang<br>
 
 
 
