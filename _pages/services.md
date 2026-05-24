@@ -6,7 +6,7 @@ author_profile: true
 ## Awards
 Best Student Paper of the Applied Research Papers at CIKM, 2025
 
-CS Department Rizvi Research Excellence Award of Rutgers University, 2025
+CS Department Rizvi Research Excellence Award of Rutgers, 2025
 
 Best Student Paper of ICA3PP, 2023
 
