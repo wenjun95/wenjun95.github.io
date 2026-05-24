@@ -53,7 +53,7 @@ Systems** <br>Zejun Xie, **Wenjun Lyu**, Yiwei Song, Haotian Wang, Guang Yang, Y
 
 <span style="color:blue;font-weight:bold">[TMC'24]</span> **Towards Workload-Constrained Efficient Order Assignment in Last-mile Delivery** <br>**Wenjun Lyu**, Xiaolong Jin, Haotian Wang, Yiwei Song, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang.<br>
 
-<span style="color:red;font-weight:bold">[SIGSPATIAL'24]</span> **Adaptive Multi-Faceted Service Capabilities Co-Prediction for Nationwide Terminal Stations in Logistics** <br>**Wenjun Lyu**, Xiaolong Jin, Haotian Wang, Yiwei Song, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang.<br>
+<span style="color:red;font-weight:bold">[SIGSPATIAL'24]</span> **Improving Network Robustness via Cellular Infrastructure Sharing: An Empirical Study of Infrastructure Failure with All Cellular Operators in A City.** <br>Zhihan Fang, Guang Yang, **Wenjun Lyu**, Zhiqing Hong, Guang Wang, Yu Yang, Desheng Zhang.<br>
 
 <span style="color:blue;font-weight:bold">[IMWUT'24]</span> **CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pre-training** <br>Zhiqing Hong, Zelong Li, Shuxin Zhong, **Wenjun Lyu**, Haotian Wang, Yi Ding, Tian He, Desheng Zhang.<br>
 
