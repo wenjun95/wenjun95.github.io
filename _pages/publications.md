@@ -11,11 +11,11 @@ author_profile: true
 
 ### 2026
 
-* <span style="white-space: nowrap;"><span style="color:red;font-weight:bold;">[KDD'26]</span> *WISE: Hierarchical Worker Scheduling for Efficient Multi-Source Urban Delivery*</span><br>**Wenjun Lyu**, Fangyu Li, Shanshan Wang, Yikang Zhang, Haotian Wang, Yunhuai Liu, Tian He, Desheng Zhang<br><br>
+<span style="font-size: 100%;"><span style="color:red;font-weight:bold;white-space:nowrap;">[KDD'26]</span> *WISE: Hierarchical Worker Scheduling for Efficient Multi-Source Urban Delivery*</span><br>**Wenjun Lyu**, Fangyu Li, Shanshan Wang, Yikang Zhang, Haotian Wang, Yunhuai Liu, Tian He, Desheng Zhang<br><br>
 
-* <span style="white-space: nowrap;"><span style="color:blue;font-weight:bold;">[TMC'26]</span> *Mobility-Aware Order Relay in Last-mile Delivery*</span><br>**Wenjun Lyu**, Haotian Wang, Zhiqing Hong, Guang Wang, Yu Yang, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang<br><br>
+<span style="font-size: 100%;"><span style="color:blue;font-weight:bold;white-space:nowrap;">[TMC'26]</span> *Mobility-Aware Order Relay in Last-mile Delivery*</span><br>**Wenjun Lyu**, Haotian Wang, Zhiqing Hong, Guang Wang, Yu Yang, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang<br><br>
 
-* <span style="white-space: nowrap;"><span style="color:red;font-weight:bold;">[AAAI'26 (Oral)]</span> *LMGL-WD: LLM-Guided Multi-Task Graph Learning for Category-Level Warehouse Demand Prediction in E-Commerce*</span><br>**Wenjun Lyu**<sup>‡†</sup>, Fangyu Li<sup>‡</sup>, Yudong Zhang, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang<br><br>
+<span style="font-size: 100%;"><span style="color:red;font-weight:bold;white-space:nowrap;">[AAAI'26 (Oral)]</span> *LMGL-WD: LLM-Guided Multi-Task Graph Learning for Category-Level Warehouse Demand Prediction in E-Commerce*</span><br>**Wenjun Lyu**<sup>‡†</sup>, Fangyu Li<sup>‡</sup>, Yudong Zhang, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang<br><br>
 
 
 ### 2026
