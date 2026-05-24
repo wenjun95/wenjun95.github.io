@@ -21,7 +21,7 @@ author_profile: true
 
 ### 2025
 
-<span style="color:blue;font-weight:bold">[TMC'25]</span> *HeroCS: Cooperative Courier Scheduling for Heterogeneous Tasks in Last-mile Delivery* <br>**Wenjun Lyu**, Liyu Zhang, Shuxin Zhong, Haotian Wang, Chao Li, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang<br>
+<span style="color:blue;font-weight:bold">[TMC'25]</span> **HeroCS: Cooperative Courier Scheduling for Heterogeneous Tasks in Last-mile Delivery** <br>**Wenjun Lyu**, Liyu Zhang, Shuxin Zhong, Haotian Wang, Chao Li, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang<br>
 
 
 
