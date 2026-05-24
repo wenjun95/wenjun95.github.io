@@ -28,27 +28,32 @@ problems in smart cities. My work is informed by real-world demands, and the sys
 My publications can be found at [Google Scholar](https://scholar.google.com/citations?user=_LMyrNQAAAAJ&hl=en). 
 
 
-[//]: # (**Recent News**)
-* May. 2025: A co-authored paper accepted by ACL(Industry Track) 2025.
-* Apr. 2025: A co-authored paper accepted by IEEE/ACM IWQOS 2025.
-* Feb. 2025: A co-authored paper accepted by IEEE TMC.
-* Jan. 2025: A 1st-authored paper accepted by WWW 2025.
-* Dec. 2024: A co-authored paper accepted by AAAI 2025
-* Nov. 2024: A co-authored paper accepted by KDD 2025.
-* Sep. 2024: A 1st-authored paper accepted by IEEE TMC.
-* Aug. 2024: A co-authored paper accepted by SIGSPATIAL 2024. 
-* Jul. 2024: Three co-authored papers accepted by CIKM 2024. 
-* May. 2024: A co-authored paper accepted by IEEE TKDE and a co-authored paper accepted by IEEE TMC.
-* Apr. 2024: A co-authored paper accepted by IEEE/ACM IWQOS 2024. 
-* Feb. 2024: A co-authored paper accepted by IEEE Transactions on Cloud Computing.
-* Oct. 2023: A co-authored paper accepted by ICA3PP 2023 is awarded the best student paper.
-* Aug. 2023: Two co-authored papers accepted by CIKM 2023.
-* Apr. 2023: A 1st-authored paper PSOT accepted by IJCAI 2023.
-* Apr. 2023: Co-authored paper accepted by ACM Transactions on Sensor Networks (TOSN).
-* Feb. 2023: A 1st-authored paper REDE accepted by ICDE 2023
-* Aug. 2022: Two co-authored papers accepted by ACM SIGSPATIAL 2022.
-* Aug. 2022: A 1st-authored paper FHOG accepted by CIKM 2022
-* Oct. 2021: A 1st-authored paper Mover accepted by IMWUT/Ubicomp.
+### **Recent News**
+
+<div style="height: 260px; overflow-y: auto; padding: 10px; border: 1px solid #e0e0e0; border-radius: 5px; background-color: #fafafa;">
+
+* **May. 2025**: A co-authored paper accepted by ACL(Industry Track) 2025.
+* **Apr. 2025**: A co-authored paper accepted by IEEE/ACM IWQOS 2025.
+* **Feb. 2025**: A co-authored paper accepted by IEEE TMC.
+* **Jan. 2025**: A 1st-authored paper accepted by WWW 2025.
+* **Dec. 2024**: A co-authored paper accepted by AAAI 2025.
+* **Nov. 2024**: A co-authored paper accepted by KDD 2025.
+* **Sep. 2024**: A 1st-authored paper accepted by IEEE TMC.
+* **Aug. 2024**: A co-authored paper accepted by SIGSPATIAL 2024. 
+* **Jul. 2024**: Three co-authored papers accepted by CIKM 2024. 
+* **May. 2024**: A co-authored paper accepted by IEEE TKDE and a co-authored paper accepted by IEEE TMC.
+* **Apr. 2024**: A co-authored paper accepted by IEEE/ACM IWQOS 2024. 
+* **Feb. 2024**: A co-authored paper accepted by IEEE Transactions on Cloud Computing.
+* **Oct. 2023**: A co-authored paper accepted by ICA3PP 2023 is awarded the **Best Student Paper**.
+* **Aug. 2023**: Two co-authored papers accepted by CIKM 2023.
+* **Apr. 2023**: A 1st-authored paper **PSOT** accepted by IJCAI 2023.
+* **Apr. 2023**: Co-authored paper accepted by ACM Transactions on Sensor Networks (TOSN).
+* **Feb. 2023**: A 1st-authored paper **REDE** accepted by ICDE 2023.
+* **Aug. 2022**: Two co-authored papers accepted by ACM SIGSPATIAL 2022.
+* **Aug. 2022**: A 1st-authored paper **FHOG** accepted by CIKM 2022.
+* **Oct. 2021**: A 1st-authored paper **Mover** accepted by IMWUT/Ubicomp.
+
+</div>
 
 
 
