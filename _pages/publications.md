@@ -27,20 +27,51 @@ Logistics Service** <br> Shuxin Zhong, Hongyu Lin, Yahan Gu, **Wenjun Lyu**, Yun
 
 ### 2025
 
-<span style="color:blue;font-weight:bold">[TMC'25]</span> **HeroCS: Cooperative Courier Scheduling for Heterogeneous Tasks in Last-mile Delivery** <br>**Wenjun Lyu**, Liyu Zhang, Shuxin Zhong, Haotian Wang, Chao Li, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang<br>
+<span style="color:blue;font-weight:bold">[TMC'25]</span> **HeroCS: Cooperative Courier Scheduling for Heterogeneous Tasks in Last-mile Delivery** <br>**Wenjun Lyu**, Liyu Zhang, Shuxin Zhong, Haotian Wang, Chao Li, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang.<br>
 
 <span style="color:blue;font-weight:bold">[TMC'25]</span> **Courier Working Time Aware Vehicle Scheduling for Efficient Urban Logistics** <br>**Wenjun Lyu**, Haotian Wang, Yiwei Song, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang.<br>
 
-<span style="color:red;font-weight:bold">[TMC'25]</span> **InCo: Exploring Inter-Trip Cooperation for Efficient Last-mile Delivery** <br>**Wenjun Lyu**, Shuxin Zhong, Guang Yang, Haotian Wang, Yi Ding, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang.<br>
+<span style="color:red;font-weight:bold">[WWW'25]</span> **InCo: Exploring Inter-Trip Cooperation for Efficient Last-mile Delivery** <br>**Wenjun Lyu**, Shuxin Zhong, Guang Yang, Haotian Wang, Yi Ding, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang.<br>
+
+<span style="color:red;font-weight:bold">[CIKM'25 (Best student paper of applied research papers)]</span> **D3-TR: Data-driven Daily Delivery Task Rescheduling for Cost-effective Last-mile Delivery.** <br>Lidi Zhang, Yinfeng Xiang, **Wenjun Lyu**, Zhiqing Hong, Haotian Wang, Desheng Zhang, Yunhuai Liu, Tian He.<br>
+
+<span style="color:blue;font-weight:bold">[TMC'25]</span> **Cellular Infrastructure Sharing for Network Robustness: A Citywide Empirical Study** <br>Zhihan Fang‡, Guang Yang‡, **Wenjun Lyu**, Zhiqing Hon, Shuxin Zhong, Weijian Zuo, Yuelei Xie, Yu Yang, Guang Wang, Yunhuai Liu, Desheng Zhang.<br>
+
+<span style="color:red;font-weight:bold">[ACL'25]</span> **CoAlign: Uncertainty Calibration of LLM for Geospatial Repartition** <br>Zejun Xie, Zhiqing Hong, **Wenjun Lyu**, Haotian Wang, Guang Wang, Desheng Zhang.<br>
+
+<span style="color:red;font-weight:bold">[KDD'25]</span> **Hierarchical Structure Sharing Empowers Multi-task Heterogeneous GNNs for Customer Expansion** <br>Xinyue Feng, Shuxin Zhong, Jinquan Hang, **Wenjun Lyu**, Yuequn Zhang, Guang Yang, Haotian Wang, Desheng Zhang, Guang Wang.<br>
+
+<span style="color:red;font-weight:bold">[KDD'25]</span> **A Fraudulent Blind Shipment Detection Framework in Logistics** <br>Hongyu Lin, Shuxin Zhong, Yan Fang, Zhiqing Hong, **Wenjun Lyu**, Qipeng Xie, Haotian Wang, Lu Wang, Kaishun Wu.<br>
+
+<span style="color:red;font-weight:bold">[KDD'25]</span> **Scalable Area Difficulty Assessment with Knowledge-enhanced AI for Nationwide Logistics
+Systems** <br>Zejun Xie, **Wenjun Lyu**, Yiwei Song, Haotian Wang, Guang Yang, Yunhuai Liu, Tian He, Desheng Zhang, Guang Wang.<br>
+
+<span style="color:red;font-weight:bold">[AAAI'25]</span> **Adaptive Multi-Faceted Service Capabilities Co-Prediction for Nationwide Terminal Stations in Logistics** <br>Shuxin Zhong, Kimberly Liu, **Wenjun Lyu**, Haotian Wang, Guang Wang, Yunhuai Liu, Tian He, Yu Yang, Desheng Zhang.<br>
 
 
 ### 2024
 
 <span style="color:blue;font-weight:bold">[TMC'24]</span> **Towards Workload-Constrained Efficient Order Assignment in Last-mile Delivery** <br>**Wenjun Lyu**, Xiaolong Jin, Haotian Wang, Yiwei Song, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang.<br>
 
+<span style="color:red;font-weight:bold">[SIGSPATIAL'24]</span> **Adaptive Multi-Faceted Service Capabilities Co-Prediction for Nationwide Terminal Stations in Logistics** <br>**Wenjun Lyu**, Xiaolong Jin, Haotian Wang, Yiwei Song, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang.<br>
+
+<span style="color:blue;font-weight:bold">[IMWUT'24]</span> **CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pre-training** <br>Zhiqing Hong, Zelong Li, Shuxin Zhong, **Wenjun Lyu**, Haotian Wang, Yi Ding, Tian He, Desheng Zhang.<br>
+
+<span style="color:blue;font-weight:bold">[TKDE'24]</span> **Nationwide Behavior-Aware Coordinates Mining from Uncertain Delivery Events** <br>Zhiqing Hong, Guang Wang, **Wenjun Lyu**, Baoshen Guo, Yi Ding, Haotian Wang, Shuai Wang, Yunhuai Liu, Desheng Zhang.<br>
+
+<span style="color:red;font-weight:bold">[CIKM'24]</span> **AdaTrans: Adaptive Transfer Time Prediction for Multi-modal Transportation Modes** <br>Shuxin Zhong, Hua Wei, **Wenjun Lyu**, Guang Yang, Zhiqing Hong, Guang Wang, Yu Yang, Desheng Zhang.<br>
+
+<span style="color:red;font-weight:bold">[CIKM'24]</span> **A Behavior-aware Cause Identification Framework for Order Cancellation in Logistics Service** <br>Shuxin Zhong, Yahan Gu, Wenjun Lyu, Hongyu Lin, Guang Yang, Yao Lu, Guang Wang, Yu Yang, Desheng Zhang.<br>
+
+<span style="color:red;font-weight:bold">[CIKM'24]</span> **Adaptive Cross-platform Transportation Time Prediction for Logistics** <br>Shuxin Zhong, **Wenjun Lyu**, Zhiqing Hong, Guang Yang, Weijian Zuo, Haotian Wang, Guang Wang, Yu Yang, Desheng Zhang.<br>
+
+<span style="color:red;font-weight:bold">[IWQOS'24]</span> **SGC: Similarity-Guided Gradient Compression for Distributed Deep Learning** <br>Jingling Liu, Jiawei Huang, Yijun Li, Zhaoyi Li, Wenjun Lyu, Wenchao Jiang, Jianxin Wang.<br>
+
+
+
 ### 2023
 
-<span style="color:red;font-weight:bold">[IJCAI'23]</span> **A Prediction-and-Scheduling Framework for Efficient Order Transfer in Logistics** <br>**Wenjun Lyu**, Haotian Wang, Yiwei Song, Yunhuai Liu, Tian He, Desheng Zhang.<br>
+<span style="color:red;font-weight:bold">[IJCAI'23]</span> **A Prediction-and-Scheduling Framework for Efficient Order Transfer in Logistics** <br>Shuxin Zhong, Kimberly Liu, Wenjun Lyu, Haotian Wang, Guang Wang, Yunhuai Liu, Tian He, Yu Yang, Desheng Zhang.<br>
 
 
 <span style="color:red;font-weight:bold">[ICDE'23]</span> **REDE: Exploring Relay Transportation for Efficient Last-mile Delivery** <br>**Wenjun Lyu**, Haotian Wang, Zhiqing Hong, Guang Wang, Yu Yang, Yunhuai Liu, Desheng Zhang.<br>
