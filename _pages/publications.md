@@ -17,6 +17,12 @@ author_profile: true
 
 <span style="color:red;font-weight:bold">[AAAI'26 (Oral)]</span> **LMGL-WD: LLM-Guided Multi-Task Graph Learning for Category-Level Warehouse Demand Prediction in E-Commerce** <br>**Wenjun Lyu‡†**, Fangyu Li‡, Yudong Zhang, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang<br>
 
+<span style="color:blue;font-weight:bold">[Nature Cities‘26]</span> **Decarbonizing emissions from last-mile deliveries in Chinese cities** <br>Zhiqing Hong, Zelong Li, Shuxin Zhong, **Wenjun Lyu**, Haotian Wang, Shenhao Wang, Shuai Wang, Yunhuai Liu, Dabo Guan, Tian He, Guang Wang, Desheng Zhang.<br>
+
+<span style="color:blue;font-weight:bold">[TMC‘26]</span> **UrbanPOI: Updating Urban POIs with Large-scale Crowdsourcing for Location-based Services** <br> Zhiqing Hong, Baoshen Guo, **Wenjun Lyu**, Haotian Wang, Yunhuai Liu, Guang Wang, Tian He, Desheng Zhang.<br>
+
+<span style="color:blue;font-weight:bold">[TMC‘26]</span> **COCO+: A Behavior-Aware Cause Identification Framework for Order Cancellation in
+Logistics Service** <br> Shuxin Zhong, Hongyu Lin, Yahan Gu, **Wenjun Lyu**, Yunhuai Liu, Wang Lu, Tian He, Kaishun Wu, Desheng Zhang.<br>
 
 
 ### 2025
