@@ -32,6 +32,13 @@ My publications can be found at [Google Scholar](https://scholar.google.com/cita
 
 <div style="height: 260px; overflow-y: auto; padding: 10px; border: 1px solid #e0e0e0; border-radius: 5px; background-color: #fafafa;">
   <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+    <li style="margin-bottom: 6px;"><strong>May. 2026</strong>:A 1st-authored paper accepted by KDD AI4S Track</li>
+    <li style="margin-bottom: 6px;"><strong>Mar. 2026</strong>:A 1st-authored paper accepted by IEEE TMC</li>
+    <li style="margin-bottom: 6px;"><strong>Dec. 2025</strong>:A 1st-authored paper accepted by IEEE TMC</li>
+    <li style="margin-bottom: 6px;"><strong>Nov. 2025</strong>: Our CIKM paper received the Best Student Paper of the Applied Research Papers</li>
+    <li style="margin-bottom: 6px;"><strong>Nov. 2025</strong>: A Co-1st-authored paper accepted by AAAI 2026 (Oral)</li>
+    <li style="margin-bottom: 6px;"><strong>Sep. 2025</strong>: A 1st-authored paper accepted by IEEE TMC.</li>
+    <li style="margin-bottom: 6px;"><strong>Aug. 2025</strong>: A co-authored paper accepted by CIKM 2025.</li>
     <li style="margin-bottom: 6px;"><strong>May. 2025</strong>: A co-authored paper accepted by ACL(Industry Track) 2025.</li>
     <li style="margin-bottom: 6px;"><strong>Apr. 2025</strong>: A co-authored paper accepted by IEEE/ACM IWQOS 2025.</li>
     <li style="margin-bottom: 6px;"><strong>Feb. 2025</strong>: A co-authored paper accepted by IEEE TMC.</li>
