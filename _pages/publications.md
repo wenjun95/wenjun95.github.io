@@ -11,7 +11,7 @@ author_profile: true
 
 ### 2026
 
-<span style="color:red;font-weight:bold">[KDD'26]</span> *WISE: Hierarchical Worker Scheduling for Efficient Multi-Source Urban Delivery* <br>**Wenjun Lyu**, Fangyu Li, Shanshan Wang, Yikang Zhang, Haotian Wang, Yunhuai Liu, Tian He, Desheng Zhang<br>
+<span style="color:red;font-weight:bold">[KDD'26]</span> **WISE: Hierarchical Worker Scheduling for Efficient Multi-Source Urban Delivery** <br>**Wenjun Lyu**, Fangyu Li, Shanshan Wang, Yikang Zhang, Haotian Wang, Yunhuai Liu, Tian He, Desheng Zhang<br>
 
 <span style="color:blue;font-weight:bold">[TMC‘26]</span> *Mobility-Aware Order Relay in Last-mile Delivery* <br>**Wenjun Lyu**, Haotian Wang, Zhiqing Hong, Guang Wang, Yu Yang, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang<br>
 
