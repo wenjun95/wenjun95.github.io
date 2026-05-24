@@ -1,12 +1,12 @@
 ---
-title: "Selected Publications"
+title: "Publications"
 layout: single
 classes: wide
 permalink: /publications/
 author_profile: true
 ---
 
-### **Publications**
+
 (‡ Equal contribution, † Corresponding author)
 
 ### 2026
