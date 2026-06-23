@@ -32,6 +32,7 @@ My publications can be found at [Google Scholar](https://scholar.google.com/cita
 
 <div style="height: 260px; overflow-y: auto; padding: 10px; border: 1px solid #e0e0e0; border-radius: 5px; background-color: #fafafa;">
   <ul style="margin: 0; padding-left: 20px; list-style-type: disc;">
+    <li style="margin-bottom: 6px;"><strong>Jun. 2026</strong>:A corresponding paper accepted by IROS 2026.</li>
     <li style="margin-bottom: 6px;"><strong>May. 2026</strong>:A 1st-authored paper accepted by KDD AI4S Track.</li>
     <li style="margin-bottom: 6px;"><strong>Mar. 2026</strong>:A 1st-authored paper accepted by IEEE TMC.</li>
     <li style="margin-bottom: 6px;"><strong>Dec. 2025</strong>:A 1st-authored paper accepted by IEEE TMC.</li>
