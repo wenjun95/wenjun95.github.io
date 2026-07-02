@@ -17,6 +17,7 @@ author_profile: true
 
 <span style="color:red;font-weight:bold">[AAAI'26 (Oral)]</span> **LMGL-WD: LLM-Guided Multi-Task Graph Learning for Category-Level Warehouse Demand Prediction in E-Commerce** <br>**Wenjun Lyu‡†**, Fangyu Li‡, Yudong Zhang, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang<br>
 
+<span style="color:red;font-weight:bold">[IROS]</span> **HRC-BP: Intervention Time Aware Human-Robot Collaborative 3D Bin Packing** <br>Ziyang Lu, **Wenjun Lyu†**, Lidi Zhang, Haotian Wang, Ruofeng Liu, Tian He, Desheng Zhang<br>
 
 <span style="color:blue;font-weight:bold">[TIOT'26]</span> **A Symbolic Efficiency-Aware Cooperative Decision System for Heterogeneous Workers and Tasks in IoT-Enabled Last-Mile Logistics** <br>Allen He, Zongsheng Li, **Wenjun Lyu**, Yunhuai Liu, Desheng Zhang<br>
 
