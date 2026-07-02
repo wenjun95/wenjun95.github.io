@@ -25,7 +25,7 @@ Post-graduate Key Exploration Project, 2018 (**Top 1%**)
 
 ### Reviewer and TPC
 
-AAAI 2027
+AAAI 2027, SIGKDD 2027
 
 WSDM 2026, AAAI 2026, WWW 2026, ICASSP 2026, IJCAI 2026, SIGKDD 2026, MM 2026, NIPS 2026, CIKM 2026
 
