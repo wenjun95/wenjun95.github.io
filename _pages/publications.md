@@ -9,9 +9,12 @@ author_profile: true
 
 (‡ Equal contribution, † Corresponding author)
 
-### 2026
 
-<span style="color:red;font-weight:bold">[KDD'27]</span> **BAMUR: Buffer-Aware Multi-Container 3D Bin Packing via Hierarchical Reinforcement Learning** <br>Ziyang Lu, **Wenjun Lyu**, Ruofeng Liu, Jiangyi Fang, Han Wu, Xin Zhu, Yikang Zhang, Lidi Zhang, Shanshan Wang, Haotian Wang, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang<br>
+### 2027
+<span style="color:red;font-weight:bold">[KDD'27]</span> **BAMUR: Buffer-Aware Multi-Container 3D Bin Packing via Hierarchical Reinforcement Learning** <br>Ziyang Lu, **Wenjun Lyu†**, Ruofeng Liu, Jiangyi Fang, Han Wu, Xin Zhu, Yikang Zhang, Lidi Zhang, Shanshan Wang, Haotian Wang, Shuai Wang, Yunhuai Liu, Tian He, Desheng Zhang<br>
+
+
+### 2026
 
 <span style="color:red;font-weight:bold">[KDD'26]</span> **WISE: Hierarchical Worker Scheduling for Efficient Multi-Source Urban Delivery** <br>**Wenjun Lyu**, Fangyu Li, Shanshan Wang, Yikang Zhang, Haotian Wang, Yunhuai Liu, Tian He, Desheng Zhang<br>
 
