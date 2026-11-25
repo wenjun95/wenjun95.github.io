@@ -55,7 +55,7 @@ plugins:
 
 author:
   name   : "Wenjun Lyu"
-  avatar : "/assets/images/wenjun.jpg"
+  avatar : "/assets/images/photo.png"
   bio    : "HKUST"
   links:
     - label: "Google Scholar"
